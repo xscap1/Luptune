@@ -31,5 +31,8 @@
     "prettier": "^1.19.1",
     "vue-cli-plugin-tailwind": "~2.0.5",
     "vue-template-compiler": "^2.6.11"
+  },
+  "scripts": {
+  "postinstall": "node-prune"
   }
 }

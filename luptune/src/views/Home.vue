@@ -207,8 +207,8 @@
 
 
           <div class="hidden xl:block">
-            <div class="">
-              <div class="fade-in flex flex-wrap mr-10">
+            <div class="fade-in">
+              <div class="flex flex-wrap mr-10">
 
                 <div class="p-10 md:w-1/3 md:mb-0 mb-6 flex flex-col text-white">
                   <div class="pattern-dots-md white">
@@ -258,7 +258,7 @@
 
               </div>
 
-              <div class="fade-in flex flex-wrap mr-10">
+              <div class="flex flex-wrap mr-10">
 
                 <div class="p-10 md:w-1/3 md:mb-0 mb-6 flex flex-col text-white">
                   <div class="pattern-dots-md white">
