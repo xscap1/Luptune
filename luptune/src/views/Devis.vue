@@ -1,5 +1,8 @@
 <template>
-  <div class="Devis bg-marine-dark">
+  <div class="Devis bg-marine-dark"  style="
+    overflow-x: hidden;
+    width: 100%;
+  ">
 
 
   <div class="bg-opacity-0">

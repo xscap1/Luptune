@@ -1,5 +1,8 @@
 <template>
-  <div class="PNF">
+  <div class="PNF"  style="
+    overflow-x: hidden;
+    width: 100%;
+  ">
     <section class="py-20 px-4 text-center">
       <div class="flex flex-wrap justify-center">
         <h2 class="w-full text-5xl font-semibold font-heading">Oups ! Vous vous êtes perdu </h2>

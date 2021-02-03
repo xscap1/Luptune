@@ -1,6 +1,9 @@
 <template>
 
-  <div class="Mentions">
+  <div class="Mentions" style="
+    overflow-x: hidden;
+    width: 100%;
+  ">
     <section id="mentions" class="container mx-auto px-4 mt-10">
       <h1 class="text-4xl font-semibold font-heading">MENTIONS LÉGALES</h1>
 

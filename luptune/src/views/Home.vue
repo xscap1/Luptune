@@ -1,6 +1,9 @@
 <template>
 
-  <div>
+  <div  style="
+    overflow-x: hidden;
+    width: 100%;
+  ">
 
     <!-- hero -->
     <div>
@@ -541,7 +544,7 @@ export default {
     document.addEventListener('scroll', this.handleScroll);
     typewriteFire();
 
-    
+
   },
 
   destroyed() {
