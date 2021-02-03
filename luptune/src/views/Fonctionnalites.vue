@@ -631,7 +631,7 @@
           <div class="fade-in">
             <p class="text-xl mb-3 font-semibold text-beige"> Placer vos clients  : </p>
             <p>Lorsqu'une réservation est faite, il vous est possible d'attribuer une table à cette dernière.
-              Depuis votre site, rentrez vos numéros de table afin de les utiliser pour placer numériquement vos clients. </p>
+              Depuis votre site, rentrez vos numéros de table afin de les utiliser pour placer virtuellement vos clients. </p>
 
             <br/>
 

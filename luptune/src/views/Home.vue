@@ -245,7 +245,7 @@
                   <div class="pattern-dots-md white">
                     <div class="rounded bg-gray-800 p-2 transform translate-x-6 -translate-y-6">
                       <div class="w-10 h-10 inline-flex items-center justify-center rounded-full mb-5 flex-shrink-0">
-                        <img src="../assets/emoji/mask.png" class="ml-1 pt-4 mb-2 w-40 md:w-20" alt="Emoji masque covid">
+                        <img src="../assets/emoji/note.png" class="ml-1 pt-4 mb-2 w-40 md:w-20" alt="Emoji réservations">
                       </div>
                       <div class="flex-grow">
                         <h2 class=" text-xl title-font font-medium mb-3 text-beige font-semibold">Gérez vos clients et réservations</h2>
@@ -264,7 +264,7 @@
                   <div class="pattern-dots-md white">
                     <div class="rounded bg-gray-800 p-2 transform translate-x-6 -translate-y-6">
                       <div class="w-10 h-10 inline-flex items-center justify-center rounded-full mb-5 flex-shrink-0">
-                        <img src="../assets/emoji/note.png" class="ml-1 pt-4 mb-2 w-40 md:w-20" alt="Emoji note">
+                        <img src="../assets/emoji/mask.png" class="ml-1 pt-4 mb-2 w-40 md:w-20" alt="Emoji masque covid">
                       </div>
                       <div class="flex-grow">
                         <h2 class="text-xl title-font font-medium mb-3 text-beige font-semibold">Commandes en ligne et Click & Collect</h2>
