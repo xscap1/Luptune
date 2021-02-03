@@ -23,7 +23,7 @@
           <div class="text-gray-600 text-lg md:text-2xl mb-16 md:mb-0 leading-tight font-normal">
             <h2 class="mr-4 ml-2 md:mr-0 md:ml-0">
               <a  class="typewrite" data-period="2000"
-              data-type='[ "Ré-ouvrez vos portes grâce à la digitalisation.",
+              data-type='[ "Ré-ouvrez vos portes grâce à la numérisation.",
                             "Passez au numérique, et connectez votre restaurant à vos clients.",
                             "Développez vos ventes grâce à votre activité en ligne. "]'>
 
@@ -63,7 +63,7 @@
 
             <div class="max-w-3xl mx-auto">
               <h2 class="text-3xl font-semibold text-white">
-              Luptune est la solution digitale extraordinaire, pour un restaurant extraordinaire.
+              Luptune est la solution numérique extraordinaire, pour un restaurant extraordinaire.
               </h2>
               <div class="text-center">
                 <p class="py-4 text-indigo-600 font-semibold" href="#">Découvrez les fonctionnalités > </p>
@@ -219,8 +219,7 @@
                       <div class="flex-grow">
                         <h2 class=" text-xl title-font font-medium mb-3 text-beige font-semibold">Création de votre site web</h2>
                         <p class="mr-2 leading-relaxed text-sm text-justify ">
-                         Grâce à Php et ces frameworks (Larave, Symfoni, Slim), je peux vous réaliser un site dynamique c'est-à-dire qui interagie avec votre base de données 💪. Nous pouvons essayer.
-                        </p>
+                         Créons ensemble main dans la main, votre site web selon vos envies. Nous vous accompagnons du simple croquis à la mise en production de votre restaurant digital.</p>
                       </div>
                     </div>
                     </div>
@@ -235,8 +234,8 @@
                       <div class="flex-grow">
                         <h2 class=" text-xl title-font font-medium mb-3 text-beige font-semibold">Boostez vos ventes</h2>
                         <p class="mr-2 leading-relaxed text-sm text-justify ">
-                         Grâce à Php et ces frameworks (Larave, Symfoni, Slim), je peux vous réaliser un site dynamique c'est-à-dire qui interagie avec votre base de données 💪. Nous pouvons essayer.
-                        </p>
+                          En ces temps difficiles, restez concurrentiel et boostez vos ventes grâce à Luptune, la solution digitale qui vous permet de continuer votre activité
+                          et de rester en vogue tout en partageant votre savoir faire.</p>
                       </div>
                     </div>
                     </div>
@@ -249,10 +248,9 @@
                         <img src="../assets/emoji/mask.png" class="ml-1 pt-4 mb-2 w-40 md:w-20" alt="Emoji masque covid">
                       </div>
                       <div class="flex-grow">
-                        <h2 class="text-xl title-font font-medium mb-3 text-beige font-semibold">Commandes en ligne et Click & Collect</h2>
+                        <h2 class=" text-xl title-font font-medium mb-3 text-beige font-semibold">Gérez vos clients et réservations</h2>
                         <p class="mr-2 leading-relaxed text-sm text-justify ">
-                         Grâce à Php et ces frameworks (Larave, Symfoni, Slim), je peux vous réaliser un site dynamique c'est-à-dire qui interagie avec votre base de données 💪. Nous pouvons essayer.
-                        </p>
+                         Facilitez-vous la gestion des réservations en vue d'une réouverture, grâce à un système centralisé, tout en pouvant effectuer un listing et un suivi de vos clients.</p>
                       </div>
                     </div>
                     </div>
@@ -269,11 +267,11 @@
                         <img src="../assets/emoji/note.png" class="ml-1 pt-4 mb-2 w-40 md:w-20" alt="Emoji note">
                       </div>
                       <div class="flex-grow">
-                        <h2 class=" text-xl title-font font-medium mb-3 text-beige font-semibold">Gérez vos clients et réservations</h2>
+                        <h2 class="text-xl title-font font-medium mb-3 text-beige font-semibold">Commandes en ligne et Click & Collect</h2>
                         <p class="mr-2 leading-relaxed text-sm text-justify ">
-                         Grâce à Php et ces frameworks (Larave, Symfoni, Slim), je peux vous réaliser un site dynamique c'est-à-dire qui interagie avec votre base de données 💪. Nous pouvons essayer.
-                        </p>
+                         Permettez à vos clients de commander vos excellents repas sur votre site, de payer et de simplement récupérer leurs commandes.</p>
                       </div>
+
                     </div>
                     </div>
                 </div>
@@ -287,8 +285,7 @@
                       <div class="flex-grow">
                         <h2 class=" text-xl title-font font-medium mb-3 text-beige font-semibold">Consultez les avis clients</h2>
                         <p class="mr-2 leading-relaxed text-sm text-justify ">
-                         Grâce à Php et ces frameworks (Larave, Symfoni, Slim), je peux vous réaliser un site dynamique c'est-à-dire qui interagie avec votre base de données 💪. Nous pouvons essayer.
-                        </p>
+                         Obtenez les avis de vos clients directement sur votre site afin de voir ce qu'ils en pensent.</p>
                       </div>
                     </div>
                     </div>
@@ -303,8 +300,7 @@
                       <div class="flex-grow">
                         <h2 class=" text-xl title-font font-medium mb-3 text-beige font-semibold">Partager depuis vos réseaux sociaux</h2>
                         <p class="mr-2 leading-relaxed text-sm text-justify ">
-                         Grâce à Php et ces frameworks (Larave, Symfoni, Slim), je peux vous réaliser un site dynamique c'est-à-dire qui interagie avec votre base de données 💪. Nous pouvons essayer.
-                        </p>
+                          Partagez votre savoir-faire depuis vos réseaux sociaux directement sur votre site. Créez automatiquement du flux photos et vidéos sur votre site web. </p>
                       </div>
                     </div>
                     </div>
@@ -395,7 +391,7 @@
     <section id="about" class="bg-white py-12 px-4 text-center">
       <h2 class="text-4xl mb-2 leading-tight font-semibold font-heading">À propos de nous</h2>
       <p class="max-w-xl mx-auto mb-12 text-gray-400">
-        Nous sommes deux auto-entrepreneurs et développeurs qui proposons une solution digitale afin d'aider les restaurateurs à continuer leur activité pendant la crise sanitaire.
+        Nous sommes deux auto-entrepreneurs et développeurs qui proposons une solution numérique afin d'aider les restaurateurs à continuer leur activité pendant la crise sanitaire.
       </p>
 
       <div class="flex flex-wrap justify-center">

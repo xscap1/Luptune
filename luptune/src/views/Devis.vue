@@ -7,7 +7,7 @@
       <div class="w-full max-w-2xl mx-auto">
         <span class="text-sm font-semibold text-beige"><h1>ESTIMEZ VOTRE DEVIS</h1></span>
         <h2 class="text-5xl mt-2 mb-6 leading-tight font-semibold font-heading text-white">Un devis à l'estime de votre restaurant</h2>
-        <p class="text-indigo-600 font-semibold " href="#">Commencez dès maintenant la digitalisation de votre restaurant </p>
+        <p class="text-indigo-600 font-semibold " href="#">Commencez dès maintenant la numérisation de votre restaurant </p>
       </div>
     </section>
   </div>

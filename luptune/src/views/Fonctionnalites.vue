@@ -4,7 +4,7 @@
     <section class="py-20 px-4 text-center">
       <div class="w-full max-w-2xl mx-auto">
         <span class="text-sm font-semibold"><h1>FONCTIONNALITÉS</h1></span>
-        <h2 class="text-5xl mt-2 mb-6 leading-tight font-semibold font-heading">Votre restaurant est aux portes de la digitalisation</h2>
+        <h2 class="text-5xl mt-2 mb-6 leading-tight font-semibold font-heading">Votre restaurant est aux portes de la numérisation</h2>
         <p class="text-indigo-600" href="#">Découvrez les fonctionnalités </p>
       </div>
     </section>
@@ -631,7 +631,7 @@
           <div class="fade-in">
             <p class="text-xl mb-3 font-semibold text-beige"> Placer vos clients  : </p>
             <p>Lorsqu'une réservation est faite, il vous est possible d'attribuer une table à cette dernière.
-              Depuis votre site, rentrez vos numéros de table afin de les utiliser pour placer digitalement vos clients. </p>
+              Depuis votre site, rentrez vos numéros de table afin de les utiliser pour placer numériquement vos clients. </p>
 
             <br/>
 
@@ -1132,7 +1132,7 @@ export default {
   mounted() {
 
     this.fadeInElements = Array.from(document.getElementsByClassName('fade-in'))
-  
+
     document.addEventListener('scroll', this.handleScroll)
   },
 
