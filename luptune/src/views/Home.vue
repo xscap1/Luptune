@@ -86,7 +86,7 @@
                       <div
                         class="flex flex-nowrap lg:ml-40 md:ml-20 ml-2 "
                       >
-                        <div class="inline-block px-3">
+                        <div class="inline-block px-3 mb-10">
                           <div
                             class="w-96 h-96 max-w-xs overflow-hidden rounded-lg shadow-md bg-gray-800 hover:shadow-xl transition-shadow duration-300 ease-in-out"
                           >
