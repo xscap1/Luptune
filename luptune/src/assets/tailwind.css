@@ -1,0 +1,16 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@layer utilities {
+  .fade-in {
+
+
+  	opacity: 0;
+  	transition: 0.3s all ease-out;
+  	transform: scale(0.8);
+  	box-sizing: border-box;
+  }
+}
