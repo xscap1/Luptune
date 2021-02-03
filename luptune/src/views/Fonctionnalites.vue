@@ -58,8 +58,8 @@
         <div class="flex flex-wrap -mx-2">
           <div class="lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0 ">
             <div class="flex flex-wrap">
-              <h2 class="text-3xl font-semibold text-beige"> Boostez vos ventes </h2>
-              <img src="../assets/emoji/rocket.png" class="w-10 mx-2" alt="">
+              <h2 class="text-2xl font-semibold text-beige"> Boostez vos ventes </h2>
+              <img src="../assets/emoji/rocket.png" class="w-10 h-10 mx-4" alt="">
             </div>
 
           </div>
@@ -94,7 +94,7 @@
           <div class="fade-in lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0">
             <div class="flex flex-wrap">
               <h2 class="text-3xl font-semibold"> Commandes en ligne </h2>
-              <img src="../assets/emoji/cc.png" class="w-10 mx-2" alt="">
+              <img src="../assets/emoji/cc.png" class="h-8 w-8 mx-2" alt="">
             </div>
 
             <p class="text-indigo-600" href="#">Passez au sans-contact avec le paiement en ligne</p>
@@ -216,7 +216,7 @@
                     <div class="px-4 py-4 sm:px-6">
                       <div class="flex items-center justify-between">
                         <p class="text-sm tracking-widest italic truncate">
-                          Veggie <br/> <span class="text-xs text-gray-500">Quantité : 1</span>
+                          Vegan <br/> <span class="text-xs text-gray-500">Quantité : 1</span>
                         </p>
 
 
@@ -440,9 +440,8 @@
 
           <div class="fade-in lg:w-2/6 px-2 lg:pr-16 mb-6 lg:mb-0">
             <div class="flex flex-wrap">
-              <h2 class="text-3xl font-semibold text-beige"> Click & Collect </h2>
-              <img src="../assets/emoji/mask.png" class="w-10 mx-2" alt="">
-                <img src="../assets/emoji/box.png" class="w-10 mx-2" alt="">
+                <h2 class="text-2xl font-semibold text-beige"> Click & Collect </h2>
+                <img src="../assets/emoji/mask.png" class="h-12 md:w-12 mx-4" alt="">
             </div>
 
             <p class="text-indigo-600" href="#">Gestion des commandes, retrait au restaurant ... </p>
@@ -479,8 +478,8 @@
 
           <div class="lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0">
             <div class="fade-in flex flex-wrap">
-              <h2 class="text-3xl font-semibold"> Listing clients </h2>
-              <img src="../assets/emoji/cfb.png" class="w-10 mx-2" alt="">
+              <h2 class="text-2xl font-semibold"> Listing clients </h2>
+              <img src="../assets/emoji/cfb.png" class="h-12 md:w-12 mx-4" alt="">
             </div>
 
             <p class="text-indigo-600" href="#">Gérez vos fiches clients et consultez leurs informations</p>
@@ -738,28 +737,28 @@
                   <div class="text-center">
                     <div class="flex justify-between gap-3 mt-6">
                       <span class="w-1/4">
-                        <a class="fade-in bg-black text-white rounded-md px-2 py-2">12:00</a>
+                        <a class="bg-black text-white rounded-md px-2 py-2">12:00</a>
                       </span>
                       <span class="w-1/4">
-                        <a class="fade-in bg-black text-white rounded-md px-2 py-2">12:15</a>
+                        <a class="bg-black text-white rounded-md px-2 py-2">12:15</a>
                       </span>
                       <span class="w-1/4">
-                        <a class="fade-in bg-black text-white rounded-md px-2 py-2">12:30</a>
+                        <a class="bg-black text-white rounded-md px-2 py-2">12:30</a>
                       </span>
                       <span class="w-1/4">
-                        <a class="fade-in bg-black text-white rounded-md px-2 py-2">12:45</a>
+                        <a class="bg-black text-white rounded-md px-2 py-2">12:45</a>
                       </span>
                     </div>
 
                     <div class="flex justify-between gap-3 mt-6">
                       <span class="w-1/4">
-                        <a class="fade-in bg-black text-white rounded-md px-2 py-2">13:00</a>
+                        <a class="bg-black text-white rounded-md px-2 py-2">13:00</a>
                       </span>
                       <span class="w-1/4">
-                        <a class="fade-in bg-black text-white rounded-md px-2 py-2">13:30</a>
+                        <a class="bg-black text-white rounded-md px-2 py-2">13:30</a>
                       </span>
                       <span class="w-1/4">
-                        <a class="fade-in bg-black text-white rounded-md px-2 py-2">14:00</a>
+                        <a class="bg-black text-white rounded-md px-2 py-2">14:00</a>
                       </span>
                       <span class="w-1/4">
 
@@ -775,25 +774,25 @@
                   <div class="text-center">
                     <div class="flex justify-between gap-3 mt-6">
                       <span class="w-1/4">
-                        <a class="fade-in bg-black text-white rounded-md px-2 py-2">19:00</a>
+                        <a class="bg-black text-white rounded-md px-2 py-2">19:00</a>
                       </span>
                       <span class="w-1/4">
-                        <a class="fade-in bg-black text-white rounded-md px-2 py-2">19:30</a>
+                        <a class="bg-black text-white rounded-md px-2 py-2">19:30</a>
                       </span>
                       <span class="w-1/4">
-                        <a class="fade-in bg-black text-white rounded-md px-2 py-2">20:00</a>
+                        <a class="bg-black text-white rounded-md px-2 py-2">20:00</a>
                       </span>
                       <span class="w-1/4">
-                        <a class="fade-in bg-black text-white rounded-md px-2 py-2">20:30</a>
+                        <a class="bg-black text-white rounded-md px-2 py-2">20:30</a>
                       </span>
                     </div>
 
                     <div class="flex justify-between gap-3 mt-6">
                       <span class="w-1/4">
-                        <a class="fade-in bg-black text-white rounded-md px-2 py-2">21:00</a>
+                        <a class="bg-black text-white rounded-md px-2 py-2">21:00</a>
                       </span>
                       <span class="w-1/4">
-                        <a class="fade-in bg-black text-white rounded-md px-2 py-2">21:30</a>
+                        <a class="bg-black text-white rounded-md px-2 py-2">21:30</a>
                       </span>
                       <span class="w-1/4">
 
@@ -1061,10 +1060,9 @@
       <section class="container px-4 mx-auto  pb-20">
         <div class="flex flex-wrap -mx-2">
           <div class="lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0">
-            <div class="flex flex-wrap">
-              <h2 class="fade-in text-3xl font-semibold text-beige pr-2"> Réseaux sociaux </h2>
-              <img src="../assets/emoji/cam.png" class="fade-in w-10 pr-2" alt="">
-              <img src="../assets/emoji/pencil.png" class="fade-in w-10 pr-2" alt="">
+            <div class="fade-in flex flex-wrap">
+              <h2 class="text-3xl font-semibold text-beige pr-2"> Réseaux sociaux </h2>
+              <img src="../assets/emoji/cam.png" class="h-12 md:w-12 mx-4 mb-2" alt="">
             </div>
 
             <p class="text-indigo-600" href="#">Affichez en temps réel vos dernières publications </p>
