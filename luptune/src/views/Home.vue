@@ -146,9 +146,9 @@
                           >
 
                           <div class="flex justify-center">
-                            <img src="../assets/emoji/note.png" class="pt-4 mb-2 w-20 mt-2" alt="Emoji note réservations">
+                            <img src="../assets/emoji/note.png" class="pt-4 mb-2 w-20 h-24 mt-2" alt="Emoji note réservations">
                           </div>
-                          <div class="flex-grow py-10">
+                          <div class="flex-grow mt-10">
                             <h2 class=" text-2xl title-font font-medium mb-3 text-beige text-center">Gérez vos clients et réservations</h2>
                             <p class="py-4 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
                             Facilitez la gestion des réservations en vue d'une réouverture, grâce à un système centralisé,
@@ -164,9 +164,9 @@
                           >
 
                           <div class="flex justify-center">
-                            <img src="../assets/emoji/star.png" class="pt-4 mb-2 w-20 mt-2" alt="Emoji étoile avis">
+                            <img src="../assets/emoji/star.png" class="pt-4 mb-2 w-20 h-24 mt-2" alt="Emoji étoile avis">
                           </div>
-                          <div class="flex-grow py-16">
+                          <div class="flex-grow mt-10">
                             <h2 class=" text-2xl title-font font-medium mb-3 text-beige text-center">Consultez les avis clients</h2>
                             <p class="py-8 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
                             Obtenez les avis de vos clients directement sur votre site afin de voir ce qu'ils pensent.
@@ -181,9 +181,9 @@
                           >
 
                           <div class="flex justify-center">
-                            <img src="../assets/emoji/cam.png" class="pt-4 mb-2 w-20 mt-2" alt="Emoji réseau sociaux">
+                            <img src="../assets/emoji/cam.png" class="pt-4 mb-2 w-20 h-24 mt-2" alt="Emoji réseau sociaux">
                           </div>
-                          <div class="flex-grow py-14">
+                          <div class="flex-grow mt-10">
                             <h2 class=" text-2xl title-font font-medium mb-3 text-beige text-center">Partager depuis vos réseaux sociaux</h2>
                             <p class="py-5 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
                             Partagez votre savoir-faire depuis vos réseaux sociaux directement sur votre site. Créez automatiquement du flux photos et vidéos sur votre site web.
