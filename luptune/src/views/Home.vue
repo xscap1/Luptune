@@ -509,7 +509,7 @@
 import Contact from '../components/Contact';
 
 export default {
-
+  mode: 'production',
   metaInfo() {
     return {
       title: "Luptune",

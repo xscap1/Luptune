@@ -205,6 +205,7 @@
 
 
   export default {
+    mode: 'production',
     name: 'app',
     el: '#hammenu',
     data: () => ({

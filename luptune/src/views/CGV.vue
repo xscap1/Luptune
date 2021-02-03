@@ -97,6 +97,7 @@
 import Contact from '../components/Contact';
 
 export default {
+  mode: 'production',
   created () {
     document.title = "Luptune - Conditions générales de ventes"
   },
