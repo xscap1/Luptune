@@ -1,5 +1,8 @@
 <template>
-  <div class="Fonctionnalites">
+  <div class="Fonctionnalites" style="
+    overflow-x: hidden;
+    width: 100%;
+  ">
 
     <section class="py-20 px-4 text-center">
       <div class="w-full max-w-2xl mx-auto">
@@ -1102,7 +1105,7 @@
 import Contact from '../components/Contact';
 
 export default {
-  mode: 'production',
+
   metaInfo() {
     return {
       title: "Luptune - Fonctionnalités",

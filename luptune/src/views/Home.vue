@@ -540,6 +540,8 @@ export default {
     this.fadeInElements = el;
     document.addEventListener('scroll', this.handleScroll);
     typewriteFire();
+
+    
   },
 
   destroyed() {

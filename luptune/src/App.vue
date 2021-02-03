@@ -1,6 +1,6 @@
 /* eslint-disable */
 <template>
-  <div id="app">
+  <div id="app" class="">
     <div id="navbg" v-show="$route.name == 'Home'" class="bg-foodBg">
       <section class="container px-4 mx-auto">
         <nav class="">
