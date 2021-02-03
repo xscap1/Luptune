@@ -490,7 +490,8 @@
         }, delta);
     };
 
-    window.onload = function() {
+
+    var typewriteFire = function() {
         var elements = document.getElementsByClassName('typewrite');
         for (var i=0; i<elements.length; i++) {
             var toRotate = elements[i].getAttribute('data-type');
@@ -505,6 +506,10 @@
         css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #fff}";
         document.body.appendChild(css);
     };
+
+    window.addEventListener ?
+    window.addEventListener("load",typewriteFire,false) :
+    window.attachEvent && window.attachEvent("onload",typewriteFire);
 
 import Contact from '../components/Contact';
 
@@ -534,6 +539,7 @@ export default {
     var el = Array.from(this.$el.getElementsByClassName("fade-in"));
     this.fadeInElements = el;
     document.addEventListener('scroll', this.handleScroll);
+    typewriteFire();
   },
 
   destroyed() {
@@ -542,6 +548,12 @@ export default {
 
 
   methods : {
+
+    updated: function () {
+  this.$nextTick(function () {
+
+  })
+},
 
     isElemVisible : function (el) {
       const rect = el.getBoundingClientRect()
