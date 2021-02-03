@@ -1,4 +1,4 @@
-My partner Axel-Ribes and I, are creating our own web agency. Visit us at : www.luptune.fr
+My partner Axel RIBES and I (Théo POUJOL), are creating our own web agency. Visit us at : www.luptune.fr
 
 We are using Vue.js and Tailwind CSS to create the website.
 
