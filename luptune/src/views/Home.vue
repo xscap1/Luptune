@@ -92,11 +92,11 @@
                           >
 
                           <div class="flex justify-center">
-                            <img src="../assets/emoji/web.png" class="pt-4 mb-2 w-20 mt-2" alt="Emoji web">
+                            <img src="../assets/emoji/web.png" class="pt-4 mb-2 w-24 h-24 mt-2" alt="Emoji web">
                           </div>
-                          <div class="flex-grow py-16">
+                          <div class="flex-grow mt-10">
                             <h2 class=" text-2xl title-font font-medium mb-3 text-beige text-center">Création de votre site web</h2>
-                            <p class="py-8 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
+                            <p class="mt-16 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
                              Créons ensemble un site web qui vous ressemble.
                              Nous vous accompagnons du simple croquis à la mise en production de votre restaurant 2.0.
                             </p>
@@ -110,9 +110,9 @@
                           >
 
                           <div class="flex justify-center">
-                            <img src="../assets/emoji/rocket.png" class="pt-4 mb-2 w-20 mt-2" alt="Emoji fusée">
+                            <img src="../assets/emoji/rocket.png" class="pt-4 mb-2 w-24 h-24 mt-2" alt="Emoji fusée">
                           </div>
-                          <div class="flex-grow py-16">
+                          <div class="flex-grow mt-10">
                             <h2 class=" text-2xl title-font font-medium mb-3 text-beige text-center">Boostez vos ventes</h2>
                             <p class="py-6 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
                              En ces temps difficiles, restez concurrentiel et boostez vos ventes grâce à Luptune.
@@ -128,9 +128,9 @@
                           >
 
                           <div class="flex justify-center">
-                            <img src="../assets/emoji/mask.png" class="pt-4 mb-2 w-20 mt-2" alt="Emoji masque covid">
+                            <img src="../assets/emoji/mask.png" class="pt-4 mb-2 w-24 h-24 mt-2" alt="Emoji masque covid">
                           </div>
-                          <div class="flex-grow py-16">
+                          <div class="flex-grow mt-10">
                             <h2 class=" text-2xl title-font font-medium mb-3 text-beige text-center">Commandes en ligne et <br/> Click & Collect</h2>
                             <p class="py-4 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
                               Permettez à vos clients de commander vos excellents repas sur votre site,
