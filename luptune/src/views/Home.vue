@@ -194,7 +194,7 @@
                       </div>
                     </div>
             </div>
-            <p class="text-center text-beige font-thin text-2xl mb-10">Scroll →</p>
+            <p class="text-center text-beige font-thin text-2xl mb-10">Défilez →</p>
             <div class="flex justify-center">
               <div class="text-center lg:text-left"><router-link to="/fonctionnalites" class="animate-bounce inline-block py-4 px-20 leading-none text-marine-dark bg-beige hover:bg-marine-dark hover:text-white border border-beige font-semibold rounded shadow">
                 Découvrez nos services</router-link>
