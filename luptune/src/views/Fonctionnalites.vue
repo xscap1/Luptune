@@ -1032,13 +1032,20 @@
           <div class="lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0">
             <div class="flex flex-wrap">
               <h2 class="fade-in text-3xl font-semibold pr-2"> Avis clients </h2>
-              <div class="fade-in bg-marine-dark rounded rounded-full flex flex-wrap flex-1 justify-center">
+              <div class="block lg:hidden fade-in bg-marine-dark rounded rounded-full flex flex-wrap flex-1 justify-center">
                 <img src="../assets/emoji/star.png" class="h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
                 <img src="../assets/emoji/star.png" class="h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
                 <img src="../assets/emoji/star.png" class="h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
                 <img src="../assets/emoji/star.png" class="h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
                 <img src="../assets/emoji/star.png" class="h-6 md:h-8 mt-2 md:mt-0" alt="">
               </div>
+
+
+                <img src="../assets/emoji/star.png" class="hidden lg:block h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
+                <img src="../assets/emoji/star.png" class="hidden lg:block h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
+                <img src="../assets/emoji/star.png" class="hidden lg:block h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
+                <img src="../assets/emoji/star.png" class="hidden lg:block h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
+                <img src="../assets/emoji/star.png" class="hidden lg:block h-6 md:h-8 mt-2 md:mt-0" alt="">
 
             </div>
 
