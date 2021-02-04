@@ -98,8 +98,8 @@
                 <li><label class="inline-flex items-center ml-6 py-1">
                   <input type="checkbox" class="form-checkbox" name="fonc1" value="Commandes en ligne" v-model="cb_devis" @change="addTotal"  >
                   <span class="ml-2 text-white">Commandes en ligne </span>
-                  <p class="text-beige ml-1 "> (Click & Collect et paiement en ligne) </p>
                 </label></li>
+                <p class="text-beige ml-1 text-sm mb-2"> (Click & Collect et paiement en ligne) </p>
                 <li><label class="inline-flex items-center ml-6 py-1">
                   <input type="checkbox"  class="form-checkbox" name="fonc3" value="Gestion fiches clients" v-model="cb_devis" @change="addTotal">
                   <span class="ml-2 text-white" >Gestion fiches clients</span>
@@ -111,8 +111,8 @@
                 <li><label class="inline-flex items-center ml-6 py-1">
                   <input type="checkbox" class="form-checkbox" name="fonc5" value="Hébergement Web" v-model="cb_devis" @change="addTotal">
                   <span class="ml-2 text-white">Hébergement Web</span>
-                  <p class="text-beige ml-1 "> (Cochez si vous n'avez pas de site internet) </p>
                 </label></li>
+                <p class="text-beige ml-1 text-sm mb-2"> (Cochez si vous n'avez pas de site internet) </p>
               </ul>
             </div>
 

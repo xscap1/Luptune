@@ -81,7 +81,9 @@
           <!-- Tél -->
 
           <div class="fade-in block xl:hidden ">
-            <div class="pt-20 pb-6 flex flex-col m-auto p-auto">
+            <p class="text-center text-beige font-thin text-2xl mb-4">Défilez →</p>
+
+            <div class="pt-2 pb-6 flex flex-col m-auto p-auto">
 
                     <div
                       class="flex overflow-x-scroll hide-scroll-bar"
@@ -91,7 +93,7 @@
                       >
                         <div class="inline-block px-3 mb-10">
                           <div
-                            class="w-96 h-96 max-w-xs overflow-hidden rounded-lg shadow-md bg-gray-800 hover:shadow-xl transition-shadow duration-300 ease-in-out"
+                            class="w-96 h-xcard max-w-xs overflow-hidden rounded-lg shadow-md bg-gray-800 hover:shadow-xl transition-shadow duration-300 ease-in-out"
                           >
 
                           <div class="flex justify-center">
@@ -99,7 +101,7 @@
                           </div>
                           <div class="flex-grow mt-10">
                             <h2 class=" text-2xl title-font font-medium mb-3 text-beige text-center">Création de votre site web</h2>
-                            <p class="mt-16 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
+                            <p class="mt-20 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
                              Créons ensemble un site web qui vous ressemble.
                              Nous vous accompagnons du simple croquis à la mise en production de votre restaurant 2.0.
                             </p>
@@ -109,7 +111,7 @@
                         </div>
                         <div class="inline-block px-3">
                           <div
-                            class="w-96 h-96 max-w-xs overflow-hidden rounded-lg shadow-md bg-gray-800 hover:shadow-xl transition-shadow duration-300 ease-in-out"
+                            class="w-96 h-xcard max-w-xs overflow-hidden rounded-lg shadow-md bg-gray-800 hover:shadow-xl transition-shadow duration-300 ease-in-out"
                           >
 
                           <div class="flex justify-center">
@@ -117,7 +119,7 @@
                           </div>
                           <div class="flex-grow mt-10">
                             <h2 class=" text-2xl title-font font-medium mb-3 text-beige text-center">Boostez vos ventes</h2>
-                            <p class="py-6 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
+                            <p class="mt-20 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
                              En ces temps difficiles, restez concurrentiel et boostez vos ventes grâce à Luptune.
                              Luptune permet de continuer votre activité et de continuer à partager votre savoir faire.
                             </p>
@@ -127,7 +129,7 @@
                         </div>
                         <div class="inline-block px-3">
                           <div
-                            class="w-96 h-96 max-w-xs overflow-hidden rounded-lg shadow-md bg-gray-800 hover:shadow-xl transition-shadow duration-300 ease-in-out"
+                            class="w-96 h-xcard max-w-xs overflow-hidden rounded-lg shadow-md bg-gray-800 hover:shadow-xl transition-shadow duration-300 ease-in-out"
                           >
 
                           <div class="flex justify-center">
@@ -135,7 +137,7 @@
                           </div>
                           <div class="flex-grow mt-10">
                             <h2 class=" text-2xl title-font font-medium mb-3 text-beige text-center">Commandes en ligne et <br/> Click & Collect</h2>
-                            <p class="py-4 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
+                            <p class="mt-12 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
                               Permettez à vos clients de commander vos excellents repas sur votre site,
                               de payer et de simplement récupérer leurs commandes.
                             </p>
@@ -145,7 +147,7 @@
                         </div>
                         <div class="inline-block px-3">
                           <div
-                            class="w-96 h-96 max-w-xs overflow-hidden rounded-lg shadow-md bg-gray-800 hover:shadow-xl transition-shadow duration-300 ease-in-out"
+                            class="w-96 h-xcard max-w-xs overflow-hidden rounded-lg shadow-md bg-gray-800 hover:shadow-xl transition-shadow duration-300 ease-in-out"
                           >
 
                           <div class="flex justify-center">
@@ -153,7 +155,7 @@
                           </div>
                           <div class="flex-grow mt-10">
                             <h2 class=" text-2xl title-font font-medium mb-3 text-beige text-center">Gérez vos clients et réservations</h2>
-                            <p class="py-4 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
+                            <p class="mt-12 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
                             Facilitez la gestion des réservations en vue d'une réouverture, grâce à un système centralisé,
                              tout en pouvant effectuer un listing et un suivi de vos clients.
                             </p>
@@ -163,7 +165,7 @@
                         </div>
                         <div class="inline-block px-3">
                           <div
-                            class="w-96 h-96 max-w-xs overflow-hidden rounded-lg shadow-md bg-gray-800 hover:shadow-xl transition-shadow duration-300 ease-in-out"
+                            class="w-96 h-xcard max-w-xs overflow-hidden rounded-lg shadow-md bg-gray-800 hover:shadow-xl transition-shadow duration-300 ease-in-out"
                           >
 
                           <div class="flex justify-center">
@@ -171,7 +173,7 @@
                           </div>
                           <div class="flex-grow mt-10">
                             <h2 class=" text-2xl title-font font-medium mb-3 text-beige text-center">Consultez les avis clients</h2>
-                            <p class="py-8 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
+                            <p class="mt-20 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
                             Obtenez les avis de vos clients directement sur votre site afin de voir ce qu'ils pensent.
                             </p>
                           </div>
@@ -180,7 +182,7 @@
                         </div>
                         <div class="inline-block px-3">
                           <div
-                            class="w-96 h-96 max-w-xs overflow-hidden rounded-lg shadow-md bg-gray-800 hover:shadow-xl transition-shadow duration-300 ease-in-out"
+                            class="w-96 h-xcard max-w-xs overflow-hidden rounded-lg shadow-md bg-gray-800 hover:shadow-xl transition-shadow duration-300 ease-in-out"
                           >
 
                           <div class="flex justify-center">
@@ -188,7 +190,7 @@
                           </div>
                           <div class="flex-grow mt-10">
                             <h2 class=" text-2xl title-font font-medium mb-3 text-beige text-center">Partager depuis vos réseaux sociaux</h2>
-                            <p class="py-5 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
+                            <p class="mt-12 leading-relaxed text-md text-justify text-white text-center mr-4 ml-4 font-thin">
                             Partagez votre savoir-faire depuis vos réseaux sociaux directement sur votre site. Créez automatiquement du flux photos et vidéos sur votre site web.
                             </p>
                           </div>
@@ -197,7 +199,7 @@
                       </div>
                     </div>
             </div>
-            <p class="text-center text-beige font-thin text-2xl mb-10">Défilez →</p>
+
             <div class="flex justify-center">
               <div class="text-center lg:text-left"><router-link to="/fonctionnalites" class="animate-bounce inline-block py-4 px-20 leading-none text-marine-dark bg-beige hover:bg-marine-dark hover:text-white border border-beige font-semibold rounded shadow">
                 Découvrez nos services</router-link>

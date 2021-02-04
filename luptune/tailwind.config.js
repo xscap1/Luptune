@@ -34,6 +34,7 @@ module.exports = {
       'darkblue' : '#177490',
     },
     spacing: {
+      xcard: '29rem',
       xx: '56rem',
       px: '1px',
       0: '0px',
