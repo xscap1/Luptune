@@ -67,7 +67,7 @@
               Luptune est la solution numérique extraordinaire, pour un restaurant extraordinaire.
               </h2>
               <div class="text-center">
-                <p class="py-4 text-indigo-600 font-semibold" href="#">Découvrez les fonctionnalités > </p>
+                <p class="py-4 text-yellow-500 font-semibold" href="#">Découvrez les fonctionnalités > </p>
               </div>
 
             </div>
