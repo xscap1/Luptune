@@ -19,7 +19,7 @@
         <div class="lg:w-2/6 px-2 lg:pr-16 mb-6 lg:mb-0">
 
           <div class="flex flex-wrap">
-            <h2 class="w-auto text-3xl font-semibold"> Créez votre site web </h2>
+            <h2 class="text-2xl xl:text-3xl font-semibold"> Créez votre site web </h2>
             <img src="../assets/emoji/web_d.png" class="h-10 md:w-10 mx-2" alt="">
 
           </div>
@@ -61,7 +61,7 @@
         <div class="flex flex-wrap -mx-2">
           <div class="lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0 ">
             <div class="flex flex-wrap">
-              <h2 class="text-2xl font-semibold text-beige"> Boostez vos ventes </h2>
+              <h2 class="text-2xl xl:text-3xl text-beige font-semibold"> Boostez vos ventes </h2>
               <img src="../assets/emoji/rocket.png" class="w-10 h-10 mx-4" alt="Emoji fusée">
             </div>
 
@@ -96,7 +96,7 @@
 
           <div class="fade-in lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0">
             <div class="flex flex-wrap">
-              <h2 class="text-3xl font-semibold"> Commandes en ligne </h2>
+              <h2 class="text-2xl xl:text-3xl font-semibold"> Commandes en ligne </h2>
               <img src="../assets/emoji/cc.png" class="h-8 w-8 mx-2" alt="Emoji commande en ligne">
             </div>
 
@@ -443,21 +443,25 @@
 
           <div class="fade-in lg:w-2/6 px-2 lg:pr-16 mb-6 lg:mb-0">
             <div class="flex flex-wrap">
-                <h2 class="text-2xl font-semibold text-beige"> Click & Collect </h2>
+                <h2 class="text-2xl xl:text-3xl font-semibold text-beige"> Click & Collect </h2>
                 <img src="../assets/emoji/mask.png" class="h-12 md:w-12 mx-4" alt="Emoji click & collect">
             </div>
 
             <p class="text-indigo-600" href="#">Gestion des commandes, retrait au restaurant ... </p>
           </div>
 
-          <div class="lg:w-2/6 px-2  text-justify text-white">
+          <div class="xl:w-2/6 px-2  lg:mt-6 text-justify text-white">
             <p>Avec cette solution, vos clients peuvent venir eux même chercher leur commande effectuée en ligne, vous n'avez même pas besoin de les prévenirs de vous-même!
             Indiquez simplement la commande comme prête et ils recevront un SMS avec toutes les informations nécessaires.</p>
           </div>
 
-          <div class="lg:w-2/6 px-2 pl-2 flex md:justify-center lg:justify-end justify-end md:-my-20 pt-6 md:pt-0">
-            <img src="../assets/AvecMess2.png" class="fade-in w-full md:w-1/2 md:mt-24 lg:w-3/4" alt="">
+          <!--md:justify-center lg:justify-end justify-end
+
+          <div class="lg:w-2/6 px-2 pl-2 flex  justify-center md:-my-20 pt-6 md:pt-0">
+            <img src="../assets/AvecMess2.png" class="fade-in w-full md:mt-24" alt="">
           </div>
+        -->
+          <img src="../assets/AvecMess2.png" class="fade-in pt-6 xl:pt-0 lg:pt-0 w-full md:w-1/2 lg:w-96 xl:w-2/6 xl:flex xl:justify-end mx-auto md:mt-24 xl:mt-0 xl:pl-4 md:-my-20 " alt="">
 
 
         </div>
@@ -481,7 +485,7 @@
 
           <div class="lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0">
             <div class="fade-in flex flex-wrap">
-              <h2 class="text-2xl font-semibold"> Listing clients </h2>
+              <h2 class="text-2xl xl:text-3xl font-semibold"> Listing clients </h2>
               <img src="../assets/emoji/human.png" class="h-12 md:w-12 mx-4 mb-2 bg-marine-dark rounded rounded-full" alt="Emoji listing client">
             </div>
 
@@ -613,7 +617,7 @@
 
           <div class="fade-in lg:w-2/5 px-2 lg:pr-16 lg:mb-0 pb-10">
             <div class="flex flex-wrap">
-              <h2 class="md:w-auto text-2xl font-semibold text-beige"> Gérez vos réservations </h2>
+              <h2 class="text-2xl xl:text-3xl font-semibold text-beige"> Gérez vos réservations </h2>
               <img src="../assets/emoji/note.png" class="h-14 md:w-10 md:h-10 mx-2" alt="">
             </div>
 
@@ -1031,22 +1035,12 @@
 
           <div class="lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0">
             <div class="flex flex-wrap">
-              <h2 class="fade-in text-3xl font-semibold pr-2"> Avis clients </h2>
-              <div class="block lg:hidden fade-in bg-marine-dark rounded rounded-full flex flex-wrap flex-1 justify-center">
-                <img src="../assets/emoji/star.png" class="h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
-                <img src="../assets/emoji/star.png" class="h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
-                <img src="../assets/emoji/star.png" class="h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
-                <img src="../assets/emoji/star.png" class="h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
-                <img src="../assets/emoji/star.png" class="h-6 md:h-8 mt-2 md:mt-0" alt="">
-              </div>
-
-
-                <img src="../assets/emoji/star.png" class="hidden lg:block h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
-                <img src="../assets/emoji/star.png" class="hidden lg:block h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
-                <img src="../assets/emoji/star.png" class="hidden lg:block h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
-                <img src="../assets/emoji/star.png" class="hidden lg:block h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
-                <img src="../assets/emoji/star.png" class="hidden lg:block h-6 md:h-8 mt-2 md:mt-0" alt="">
-
+              <h2 class="text-2xl xl:text-3xl font-semibold pr-2"> Avis clients </h2>
+                <img src="../assets/emoji/star.png" class="h-6 xl:h-8 pr-1 mt-2 md:mt-0" alt="">
+                <img src="../assets/emoji/star.png" class="h-6 xl:h-8 pr-1 mt-2 md:mt-0" alt="">
+                <img src="../assets/emoji/star.png" class="h-6 xl:h-8 pr-1 mt-2 md:mt-0" alt="">
+                <img src="../assets/emoji/star.png" class="h-6 xl:h-8 pr-1 mt-2 md:mt-0" alt="">
+                <img src="../assets/emoji/star.png" class="h-6 xl:h-8 mt-2 md:mt-0" alt="">
             </div>
 
             <p class="fade-in text-indigo-600" href="#">Admirez l'éloge fait au sujet de votre établissement</p>
@@ -1073,7 +1067,7 @@
         <div class="flex flex-wrap -mx-2">
           <div class="lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0">
             <div class="fade-in flex flex-wrap">
-              <h2 class="text-3xl font-semibold text-beige pr-2"> Réseaux sociaux </h2>
+              <h2 class="text-2xl xl:text-3xl font-semibold text-beige"> Réseaux sociaux </h2>
               <img src="../assets/emoji/cam.png" class="h-12 md:w-12 mx-2 mb-2" alt="">
             </div>
 
