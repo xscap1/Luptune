@@ -20,7 +20,7 @@
 
           <div class="flex flex-wrap">
             <h2 class="w-auto text-3xl font-semibold"> Créez votre site web </h2>
-            <img src="../assets/emoji/web.png" class="h-10 md:w-10 mx-2" alt="">
+            <img src="../assets/emoji/web_d.png" class="h-10 md:w-10 mx-2" alt="">
 
           </div>
 
@@ -62,7 +62,7 @@
           <div class="lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0 ">
             <div class="flex flex-wrap">
               <h2 class="text-2xl font-semibold text-beige"> Boostez vos ventes </h2>
-              <img src="../assets/emoji/rocket.png" class="w-10 h-10 mx-4" alt="">
+              <img src="../assets/emoji/rocket.png" class="w-10 h-10 mx-4" alt="Emoji fusée">
             </div>
 
           </div>
@@ -97,7 +97,7 @@
           <div class="fade-in lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0">
             <div class="flex flex-wrap">
               <h2 class="text-3xl font-semibold"> Commandes en ligne </h2>
-              <img src="../assets/emoji/cc.png" class="h-8 w-8 mx-2" alt="">
+              <img src="../assets/emoji/cc.png" class="h-8 w-8 mx-2" alt="Emoji commande en ligne">
             </div>
 
             <p class="text-indigo-600" href="#">Passez au sans-contact avec le paiement en ligne</p>
@@ -444,7 +444,7 @@
           <div class="fade-in lg:w-2/6 px-2 lg:pr-16 mb-6 lg:mb-0">
             <div class="flex flex-wrap">
                 <h2 class="text-2xl font-semibold text-beige"> Click & Collect </h2>
-                <img src="../assets/emoji/mask.png" class="h-12 md:w-12 mx-4" alt="">
+                <img src="../assets/emoji/mask.png" class="h-12 md:w-12 mx-4" alt="Emoji click & collect">
             </div>
 
             <p class="text-indigo-600" href="#">Gestion des commandes, retrait au restaurant ... </p>
@@ -482,7 +482,7 @@
           <div class="lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0">
             <div class="fade-in flex flex-wrap">
               <h2 class="text-2xl font-semibold"> Listing clients </h2>
-              <img src="../assets/emoji/cfb.png" class="h-12 md:w-12 mx-4" alt="">
+              <img src="../assets/emoji/human.png" class="h-12 md:w-12 mx-4 mb-2 bg-marine-dark rounded rounded-full" alt="Emoji listing client">
             </div>
 
             <p class="text-indigo-600" href="#">Gérez vos fiches clients et consultez leurs informations</p>
@@ -611,10 +611,9 @@
       <section class="container px-4 mx-auto  pb-40">
         <div class="flex flex-wrap -mx-2">
 
-          <div class="fade-in lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0 pb-40">
+          <div class="fade-in lg:w-2/5 px-2 lg:pr-16 lg:mb-0 pb-10">
             <div class="flex flex-wrap">
-              <h2 class="w-2/4 md:w-auto text-3xl font-semibold text-beige"> Gérez vos réservations </h2>
-              <img src="../assets/emoji/computer.png" class="h-14  md:w-10 md:h-10 mx-2" alt="">
+              <h2 class="md:w-auto text-2xl font-semibold text-beige"> Gérez vos réservations </h2>
               <img src="../assets/emoji/note.png" class="h-14 md:w-10 md:h-10 mx-2" alt="">
             </div>
 
@@ -1033,11 +1032,14 @@
           <div class="lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0">
             <div class="flex flex-wrap">
               <h2 class="fade-in text-3xl font-semibold pr-2"> Avis clients </h2>
-              <img src="../assets/emoji/star.png" class="fade-in h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
-              <img src="../assets/emoji/star.png" class="fade-in h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
-              <img src="../assets/emoji/star.png" class="fade-in h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
-              <img src="../assets/emoji/star.png" class="fade-in h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
-              <img src="../assets/emoji/star.png" class="fade-in h-6 md:h-8 mt-2 md:mt-0" alt="">
+              <div class="fade-in bg-marine-dark rounded rounded-full flex flex-wrap flex-1 justify-center">
+                <img src="../assets/emoji/star.png" class="h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
+                <img src="../assets/emoji/star.png" class="h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
+                <img src="../assets/emoji/star.png" class="h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
+                <img src="../assets/emoji/star.png" class="h-6 md:h-8 pr-1 mt-2 md:mt-0" alt="">
+                <img src="../assets/emoji/star.png" class="h-6 md:h-8 mt-2 md:mt-0" alt="">
+              </div>
+
             </div>
 
             <p class="fade-in text-indigo-600" href="#">Admirez l'éloge fait au sujet de votre établissement</p>
@@ -1065,7 +1067,7 @@
           <div class="lg:w-2/5 px-2 lg:pr-16 mb-6 lg:mb-0">
             <div class="fade-in flex flex-wrap">
               <h2 class="text-3xl font-semibold text-beige pr-2"> Réseaux sociaux </h2>
-              <img src="../assets/emoji/cam.png" class="h-12 md:w-12 mx-4 mb-2" alt="">
+              <img src="../assets/emoji/cam.png" class="h-12 md:w-12 mx-2 mb-2" alt="">
             </div>
 
             <p class="text-indigo-600" href="#">Affichez en temps réel vos dernières publications </p>
