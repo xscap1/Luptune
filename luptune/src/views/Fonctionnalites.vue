@@ -12,7 +12,6 @@
       </div>
     </section>
 
-
     <!-- Création site web -->
     <section class="container mx-auto py-8 px-4 mb-20">
       <div class="flex flex-wrap -mx-2">
@@ -21,12 +20,13 @@
           <div class="flex flex-wrap">
             <h2 class="text-2xl xl:text-3xl font-semibold"> Créez votre site web </h2>
             <img src="../assets/emoji/web_d.png" class="h-10 md:w-10 mx-2" alt="">
-
           </div>
 
           <p class="text-indigo-600" href="#">Moderne, classique, créatif... Un site à l'image de votre cuisine</p>
+
         </div>
-        <div class="lg:w-2/6 px-2 text-justify pr-6">
+
+        <div class="xl:w-2/6 px-2 text-justify pr-6">
           <p class="mb-2"> Personnalisez le site idéal pour votre établissement grâce à une étroite coopération entre vous et nous!
              Des croquis à la conception, nous vous accompagnerons pour faire en sorte que vous et vos clients ayez la meilleure expérience possible.</p>
 
@@ -36,12 +36,14 @@
             Présentez également
             toute votre équipe et nouez ainsi des liens avec vos clients. Faites y figurer vos horaires d'ouverture et toutes autres informations au sujet de votre
             établissement!
-                </p>
+          </p>
         </div>
 
-        <div class="lg:w-2/6 px-2 flex justify-end lg:pl-16 lg:-my-20 pt-10 lg:pt-0 ">
+        <div class="hidden xl:block lg:w-2/6 px-2 flex lg:justify-end md:justify-center lg:pl-16 lg:-my-20 pt-10 lg:pt-0 ">
           <img src="../assets/fulldevice.png" class="w-full" alt="">
         </div>
+
+        <img src="../assets/fulldevice.png" class="mx-auto block xl:hidden md:w-2/3 lg:w-1/2 mt-10" alt="">
       </div>
     </section>
 

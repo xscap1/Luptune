@@ -36,7 +36,6 @@
             </h2>
           </div>
 
-
           <div class="">
             <a href="#fct" class="md:mt-20 animate-bounce inline-block py-4 px-20 leading-none text-beige bg-marine-dark hover:bg-marine-dark hover:text-marine-dark border border-marine-dark hover:bg-foodBg font-semibold rounded shadow-xl">
               Créez votre site
@@ -45,7 +44,6 @@
           </div>
         </div>
       </section>
-
 
       <div class="block lg:hidden bg-food flex justify-end">
           <img class="h-xx w-full" src="../assets/telCorner.png" alt="Luptune téléphone">
