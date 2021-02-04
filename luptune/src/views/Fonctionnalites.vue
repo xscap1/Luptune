@@ -6,9 +6,9 @@
 
     <section class="py-20 px-4 text-center">
       <div class="w-full max-w-2xl mx-auto">
-        <span class="text-sm font-semibold"><h1>FONCTIONNALITÉS</h1></span>
+        <span class="text-yellow-500 text-sm font-semibold"><h1>FONCTIONNALITÉS</h1></span>
         <h2 class="text-5xl mt-2 mb-6 leading-tight font-semibold font-heading">Votre restaurant est aux portes de la numérisation</h2>
-        <p class="text-indigo-600" href="#">Découvrez les fonctionnalités </p>
+        <p class="text-gray-500" href="#">Découvrez les fonctionnalités </p>
       </div>
     </section>
 
@@ -22,7 +22,7 @@
             <img src="../assets/emoji/web_d.png" class="h-10 md:w-10 mx-2" alt="">
           </div>
 
-          <p class="text-indigo-600" href="#">Moderne, classique, créatif... Un site à l'image de votre cuisine</p>
+          <p class="text-yellow-500" href="#">Moderne, classique, créatif... Un site à l'image de votre cuisine</p>
 
         </div>
 
@@ -102,17 +102,17 @@
               <img src="../assets/emoji/cc.png" class="h-8 w-8 mx-2" alt="Emoji commande en ligne">
             </div>
 
-            <p class="text-indigo-600" href="#">Passez au sans-contact avec le paiement en ligne</p>
+            <p class="text-yellow-500" href="#">Passez au sans-contact avec le paiement en ligne</p>
           </div>
 
           <div class="lg:w-3/5 px-2  text-justify">
             <p class="mb-3">Grâce à Luptune, permettez à vos clients de faire leur choix directement depuis votre site et ce depuis leur téléphone, leur ordinateur, ou
             même leur tablette!</p>
-              <h3 class="fade-in text-xl mb-3 font-semibold font-semibold">Pour eux:</h3>
+              <h3 class="fade-in text-xl mb-3 font-semibold font-semibold text-yellow-500">Pour eux:</h3>
             <p class="mb-3">Vos clients pourrons alors choisir leur commande parmi les choix que vous avez proposés, cela leur donnera alors un total à payer à la fin de leurs choix!
             Ils pourront également vous laisser un commentaire au sujet de leur commande pour vous apporter plus de précision.
             </p>
-              <h3 class="fade-in text-xl mb-3 font-semibold font-semibold">Pour vous:</h3>
+              <h3 class="fade-in text-xl mb-3 font-semibold font-semibold text-yellow-500">Pour vous:</h3>
             <p>En donnant leurs noms lors de leur commande vous pourrez garder une trace de vos clients depuis notre interface. Avec leur adresse, il vous sera
             possible de livrer si cela est désiré tout en les maintenants informés grâce à leur numéro de téléphone. De plus, il vous sera possible d'attribuer
           un statut à chacune des commandes. </p>
@@ -449,7 +449,7 @@
                 <img src="../assets/emoji/mask.png" class="h-12 md:w-12 mx-4" alt="Emoji click & collect">
             </div>
 
-            <p class="text-indigo-600" href="#">Gestion des commandes, retrait au restaurant ... </p>
+            <p class="text-yellow-500" href="#">Gestion des commandes, retrait au restaurant ... </p>
           </div>
 
           <div class="xl:w-2/6 px-2  lg:mt-6 text-justify text-white">
@@ -491,7 +491,7 @@
               <img src="../assets/emoji/human.png" class="h-12 md:w-12 mx-4 mb-2 bg-marine-dark rounded rounded-full" alt="Emoji listing client">
             </div>
 
-            <p class="text-indigo-600" href="#">Gérez vos fiches clients et consultez leurs informations</p>
+            <p class="text-yellow-500" href="#">Gérez vos fiches clients et consultez leurs informations</p>
           </div>
 
           <div class="lg:w-3/5 px-2  text-justify">
@@ -623,7 +623,7 @@
               <img src="../assets/emoji/note.png" class="h-14 md:w-10 md:h-10 mx-2" alt="">
             </div>
 
-            <p class="text-indigo-600" href="#">Qui? Quand? Où? Sachez l'heure, la date et assignez les tables </p>
+            <p class="text-yellow-500" href="#">Qui? Quand? Où? Sachez l'heure, la date et assignez les tables </p>
           </div>
 
           <div class="lg:w-3/5 px-2  text-justify text-white">
@@ -1045,7 +1045,7 @@
                 <img src="../assets/emoji/star.png" class="h-6 xl:h-8 mt-2 md:mt-0" alt="">
             </div>
 
-            <p class="fade-in text-indigo-600" href="#">Admirez l'éloge fait au sujet de votre établissement</p>
+            <p class="fade-in text-yellow-500" href="#">Admirez l'éloge fait au sujet de votre établissement</p>
           </div>
 
           <div class="lg:w-3/5 px-2  text-justify">
@@ -1073,7 +1073,7 @@
               <img src="../assets/emoji/cam.png" class="h-12 md:w-12 mx-2 mb-2" alt="">
             </div>
 
-            <p class="text-indigo-600" href="#">Affichez en temps réel vos dernières publications </p>
+            <p class="text-yellow-500" href="#">Affichez en temps réel vos dernières publications </p>
           </div>
 
           <div class="fade-in lg:w-3/5 px-2  text-justify text-white">
