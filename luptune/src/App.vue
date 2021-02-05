@@ -83,10 +83,7 @@
                         </div>
                       </div>
 
-                      <li>
-                        <a href="#contact" onclick="document.getElementById('id01').style.display='none'">Contact</a>
-                      </li>
-
+                      <li onclick="document.getElementById('id01').style.display='none'"><button type="button" name="button" v-on:click="goToContact">Contact</button></li>
                     </ul>
                   </div>
 
@@ -213,9 +210,7 @@
                         </div>
                       </div>
 
-                      <li>
-                          <a href="#contact" onclick="document.getElementById('id02').style.display='none'">Contact</a>
-                      </li>
+                      <li onclick="document.getElementById('id02').style.display='none'"><button type="button" name="button" v-on:click="goToContact">Contact</button></li>
 
                     </ul>
                   </div>
@@ -332,7 +327,8 @@
 </style>
 <script>
 
-  // Get the modal
+
+// Get the modal
 var modal = document.getElementById('id01');
 
 // When the user clicks anywhere outside of the modal, close it
@@ -349,6 +345,11 @@ window.onclick = function(event) {
     data: () => ({
       isVisible: true,
 
-    })
+    }),
+    methods: {
+      goToContact() {
+        document.getElementById('contact').scrollIntoView();
+      }
+    }
   }
 </script>
