@@ -83,7 +83,7 @@
                         </div>
                       </div>
 
-                      <li onclick="document.getElementById('id01').style.display='none'"><button type="button" name="button" v-on:click="goToContact">Contact</button></li>
+                      <li onclick="document.getElementById('id01').style.display='none'"><button type="button" name="button" v-on:click="goToContact" class="font-thin">Contact</button></li>
                     </ul>
                   </div>
 
@@ -210,7 +210,7 @@
                         </div>
                       </div>
 
-                      <li onclick="document.getElementById('id02').style.display='none'"><button type="button" name="button" v-on:click="goToContact">Contact</button></li>
+                      <li onclick="document.getElementById('id02').style.display='none'"><button type="button" name="button" v-on:click="goToContact" class="font-thin">Contact</button></li>
 
                     </ul>
                   </div>
