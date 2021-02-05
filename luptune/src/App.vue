@@ -13,7 +13,7 @@
                 <!-- Mobile menu button-->
 
 
-                <button v-on:click="isVisible = !isVisible" class="lg:hidden inline-flex items-center justify-center p-2 rounded-md text-beige bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white" aria-expanded="false">
+                <button onclick="document.getElementById('id01').style.display='block'" class="lg:hidden inline-flex items-center justify-center p-2 rounded-md text-beige bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white" aria-expanded="false">
 
                   <!-- Icon when menu is closed. -->
                   <!--
@@ -37,20 +37,62 @@
                 </button>
 
 
-                  <div  v-show="!isVisible" class="ml-5 bg-white rounded-xl border border-gray-300"
+                  <div class="ml-5 bg-white rounded-xl border border-gray-300"
                   style="
                     position : relative;
                     z-index: 101;
                   ">
-                    <div class="pt-16 md:pt-20 space-y-1">
-                      <br/>
-                      <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
-                      <router-link to="/" class="border-b border-gray-300  text-gray-500 hover:bg-gray-700 hover:text-beige block px-3 py-2 rounded-md text-base font-medium">Accueil</router-link>
-                      <router-link to="/fonctionnalites" class="border-b border-gray-300  text-gray-500 hover:bg-gray-700 hover:text-beige block px-3 py-2 rounded-md text-base font-medium">Fonctionnalités</router-link>
-                      <router-link to="/devis" class="border-b border-gray-300   text-gray-500 hover:bg-gray-700 hover:text-beige block px-3 py-2 rounded-md text-base font-medium">Estimation de devis</router-link>
 
-                      <a href="#contact" class="text-gray-500 hover:bg-gray-700 hover:text-beige block px-3 py-2 rounded-md text-base pb-2 font-medium">Contact</a>
-                    </div>
+                  <div id="id01" class="modal">
+
+                  <div class="modal-content animate rounded rounded-lg border-none bg-marine-dark">
+                  <div>
+                    <span onclick="document.getElementById('id01').style.display='none'" class="text-3xl text-gray-300 font-bold flex justify-end pr-2 text-beige" title="Close Modal">&times;</span>
+                  </div>
+
+
+
+                  <div class="mt-10 pb-16">
+                    <ul class="text-center space-y-4 text-white font-thin">
+
+
+                      <li onclick="document.getElementById('id01').style.display='none'">
+                          <router-link to="/"><p>Accueil</p></router-link>
+                      </li>
+
+                      <div class="container mx-auto px-12">
+                        <div class="border-b border-beige">
+                        </div>
+                      </div>
+
+                      <li onclick="document.getElementById('id01').style.display='none'">
+                          <router-link to="/fonctionnalites"><p>Fonctionnalités</p></router-link>
+                      </li>
+
+                      <div class="container mx-auto px-12">
+                        <div class="border-b border-beige">
+                        </div>
+                      </div>
+
+                      <li onclick="document.getElementById('id01').style.display='none'">
+                          <router-link to="/devis"><p>Estimation de devis</p></router-link>
+                      </li>
+
+                      <div class="container mx-auto px-12">
+                        <div class="border-b border-beige ">
+                        </div>
+                      </div>
+
+                      <li onclick="document.getElementById('id01').style.display='none'">
+                          <a href="#contact"><p>Contact</p></a>
+                      </li>
+
+                    </ul>
+                  </div>
+
+
+                  </div>
+                  </div>
                 </div>
 
               </div>
@@ -202,10 +244,61 @@
 </template>
 
 
+
+<style>
+
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  padding-top: 60px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* Add Zoom Animation */
+.animate {
+  -webkit-animation: animatezoom 0.6s;
+  animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+  from {-webkit-transform: scale(0)}
+  to {-webkit-transform: scale(1)}
+}
+
+@keyframes animatezoom {
+  from {transform: scale(0)}
+  to {transform: scale(1)}
+}
+
+
+</style>
 <script>
 
+  // Get the modal
+var modal = document.getElementById('id01');
 
-
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
 
   export default {
     mode: 'production',
