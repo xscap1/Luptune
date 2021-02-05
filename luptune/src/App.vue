@@ -84,6 +84,7 @@
                       </div>
 
                       <li>
+                        <a href="#contact" onclick="document.getElementById('id01').style.display='none'">Contact</a>
                       </li>
 
                     </ul>
@@ -213,7 +214,7 @@
                       </div>
 
                       <li>
-                          <a href="#contact"><p>Contact</p></a>
+                          <a href="#contact" onclick="document.getElementById('id02').style.display='none'">Contact</a>
                       </li>
 
                     </ul>
