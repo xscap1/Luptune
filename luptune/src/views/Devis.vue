@@ -78,13 +78,18 @@
               <label class="inline-flex items-center ml-6">
                 <input type="checkbox" class="form-checkbox" value="Moderne" v-model="cb_style" @change="uniqueCheck">
                 <span class="ml-2 text-white">Moderne</span>
+
               </label>
               <label class="inline-flex items-center ml-6">
                 <input type="checkbox" class="form-checkbox" value="Classique" v-model="cb_style" @change="uniqueCheck">
                 <span class="ml-2 text-white">Classique</span>
               </label>
               <br/>
-
+              <br/>
+            
+                <p class="text-gray-400 text-justify">L'option moderne va comprendre un site beaucoup plus dynamique avec par exemple des animations de défilement ainsi qu'un
+                  design moderne et épuré, l'option Classique va quant à
+                elle comprendre un site plus statique et au design plus simple</p>
             </div>
 
           </div>

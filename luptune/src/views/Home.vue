@@ -402,7 +402,7 @@
           <img class="fade-in w-full lg:w-1/3 mx-auto mb-4 rounded-full" src="../assets/axel.png" alt="">
           <h3 class="text-xl mb-1 font-semibold font-heading">Axel Ribes</h3>
           <span>Développeur & Auto-entrepreneur</span>
-          <p class="mt-4 text-gray-400 leading-relaxed">J'aime beaucoup tout ce qui touche au web et compte faire tout mon possible pour satisfaire vos demandes.</p>
+          <p class="mt-4 text-gray-400 leading-relaxed">J'ai très vite été intéressé par les technologies du web et cela m'a donné envie d'entreprendre dans ce milieu! </p>
 
           <div class="flex justify-center space-x-6 py-3 my-4 mx-12">
             <a href="https://www.linkedin.com/in/axel-ribes-260979133/" target="_blank">

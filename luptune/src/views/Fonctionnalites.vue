@@ -26,11 +26,12 @@
 
         </div>
 
-        <div class="xl:w-2/6 px-2 text-justify pr-6">
-          <p class="mb-2"> Personnalisez le site idéal pour votre établissement grâce à une étroite coopération entre vous et nous!
+        <div class="xl:w-2/6 px-2 text-justify border-b-8 border-l-8 border-yellow-600 p-8 inline-block">
+          <br>
+          <p class="mb-6"> Personnalisez le site idéal pour votre établissement grâce à une étroite coopération entre vous et nous!
              Des croquis à la conception, nous vous accompagnerons pour faire en sorte que vous et vos clients ayez la meilleure expérience possible.</p>
 
-          <p class="mb-2">Un contenu sur mesure pour les restaurateurs, c'est ce que nous voulons! Publiez votre menu pour en faire profiter les plus gourmands.
+          <p class="mb-6">Un contenu sur mesure pour les restaurateurs, c'est ce que nous voulons! Publiez votre menu pour en faire profiter les plus gourmands.
           </p>
           <p>
             Présentez également
@@ -497,7 +498,8 @@
           <div class="lg:w-3/5 px-2  text-justify">
             <p>Accédez à une interface vous donnant un suivi de chaque client. Les informations enregistrées sont celles fournies lors d'une réservation,
             d'une commande en ligne ou encore d'une commande en Click & Collect. Cela vous permettra de pouvoir gérer la fidélité de ces derniers et même
-          de contrôler si un client annule trop souvent par exemple!</p>
+          de contrôler si un client annule trop souvent par exemple! De plus, vous aurez également accès à un historique complet des commandes effectuées
+        dans votre établissement.</p>
           </div>
         </div>
       </section>
