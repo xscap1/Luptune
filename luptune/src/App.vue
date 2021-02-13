@@ -37,7 +37,7 @@
                 </button>
 
 
-                  <div class="ml-5 bg-white rounded-xl border border-gray-300"
+                  <div class="ml-5"
                   style="
                     position : relative;
                     z-index: 101;
@@ -164,7 +164,7 @@
                 </button>
 
 
-                  <div class="ml-5 bg-white rounded-xl border border-gray-300"
+                  <div class="ml-5"
                   style="
                     position : relative;
                     z-index: 101;
