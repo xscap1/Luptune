@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90380f24-a61c-491e-b71a-3466444ffc28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,30 +27,30 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="js" value="1" />
-          <entry key="vue" value="1" />
+          <entry key="vue" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JavaScript" value="1" />
-          <entry key="Vue.js" value="1" />
+          <entry key="Vue.js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="vue" value="75" />
+          <entry key="vue" value="94" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Vue.js" value="75" />
+          <entry key="Vue.js" value="94" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2490">
@@ -62,6 +62,15 @@
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
                 <element signature="e#8173#8180#1" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Contact.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="150" column="51" selection-start-line="150" selection-start-column="51" selection-end-line="150" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -87,6 +96,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/src/components/Contact.vue" />
       </list>
     </option>
   </component>
@@ -123,6 +133,17 @@
             <path>
               <item name="luptune" type="b2602c69:ProjectViewProjectNode" />
               <item name="luptune" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luptune" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luptune" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luptune" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luptune" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,15 +188,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613237559516</updated>
-      <workItem from="1613237562139" duration="1249000" />
+      <workItem from="1613237562139" duration="1457000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1249000" />
+    <option name="totallyTimeSpent" value="1457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="824" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -227,6 +249,13 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
             <element signature="e#8173#8180#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Contact.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="150" column="51" selection-start-line="150" selection-start-column="51" selection-end-line="150" selection-end-column="51" />
         </state>
       </provider>
     </entry>
