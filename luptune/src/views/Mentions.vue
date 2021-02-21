@@ -8,12 +8,18 @@
       <h1 class="text-4xl font-semibold font-heading">MENTIONS LÉGALES</h1>
 
       <div class="mx-auto">
-        <p class="mb-4 mt-4">Ce site est édité par Théo POUJOL et Axel RIBES.</p>
-        <p class="mb-4">Dont les adresses e-mails personnelles sont : poujoltheo@gmail.com et axelribes4@gmail.com</p>
-        <p class="mb-4">Dont les numéros téléphoniques personnels sont Mr. POUJOL: +33 6 58 92 44 05 et Mr. RIBES: +33 6 43 40 17 58</p>
+
+        <p class="font-semibold mt-4">Informations : </p>
+        <p class="">Ce site est édité par Théo POUJOL et Axel RIBES.</p>
+        <p class="mb-4">Dont les adresses e-mails personnelles sont : <span class="font-semibold">poujoltheo@gmail.com</span> et <span class="font-semibold">axelribes4@gmail.com</span> </p>
+        <p class="mb-4">Dont les numéros téléphoniques personnels sont M. POUJOL: <span class="font-semibold">+33 6 58 92 44 05</span> et M. RIBES: <span class="font-semibold">+33 6 43 40 17 58</span></p>
         <p class="mb-2">Domiciliés aux adresses suivantes:</p>
         <p class="mb-2"> Mr POUJOL: 4 Avenue Jean Bart Residence Jean Bart 13620 Carry-le-Rouet</p>
         <p class="mb-4">Mr. RIBES: 77 allée du chateau 83136 Forcalqueiret</p>
+        <p class="font-semibold">Activité : </p>
+        <p>N° RCS : 893 995 704 00010</p>
+
+        <p class="font-semibold mt-4">Hébergement : </p>
         <p class="">Le site est hébergé par la société OVH Hosting</p>
         <p class="">1801 McGill College Ave. Suite 800 Montreal, Quebec H3A 2N4 Canada</p>
         <p class="">OVH Groupe SAS</p>

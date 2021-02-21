@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90380f24-a61c-491e-b71a-3466444ffc28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/eacf4a53860514a4982c205ca039f56f.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/eacf4a53860514a4982c205ca039f56f.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2f9ffb763d2e48e85a6e96efdc606ef4.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2f9ffb763d2e48e85a6e96efdc606ef4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a7fafe02c0ccee2c583d218201b1769b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/a7fafe02c0ccee2c583d218201b1769b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b56222530d30a19cd297ee74e52f789b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b56222530d30a19cd297ee74e52f789b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/cc9a0a2b0c4a9cc7232847c80de5ae34.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/cc9a0a2b0c4a9cc7232847c80de5ae34.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e120b59881d86b6f1ac61af14f60d792.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e120b59881d86b6f1ac61af14f60d792.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Mentions.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Mentions.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,30 +30,30 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="js" value="1" />
-          <entry key="vue" value="2" />
+          <entry key="vue" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JavaScript" value="1" />
-          <entry key="Vue.js" value="2" />
+          <entry key="Vue.js" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="vue" value="966" />
+          <entry key="vue" value="1181" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Vue.js" value="966" />
+          <entry key="Vue.js" value="1181" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="638">
@@ -71,6 +64,15 @@
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#div#1;n#div#0;n#template#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/views/Mentions.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -92,6 +94,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/components/Contact.vue" />
         <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/src/views/Mentions.vue" />
       </list>
     </option>
   </component>
@@ -141,6 +144,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="luptune" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luptune" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -185,15 +194,15 @@
       <updated>1613237559516</updated>
       <workItem from="1613237562139" duration="1918000" />
       <workItem from="1613815720839" duration="1748000" />
-      <workItem from="1613902580357" duration="1839000" />
+      <workItem from="1613902580357" duration="3313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5505000" />
+    <option name="totallyTimeSpent" value="6979000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1004" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1004" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23216188" />
@@ -252,6 +261,13 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#div#1;n#div#0;n#template#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#section#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Mentions.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
