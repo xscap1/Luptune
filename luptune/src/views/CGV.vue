@@ -98,8 +98,16 @@ import Contact from '../components/Contact';
 
 export default {
   mode: 'production',
-  created () {
-    document.title = "Luptune - Conditions générales de ventes"
+  metaInfo() {
+    return {
+      title: "Luptune - Conditions générales de ventes",
+      meta: [
+        {
+          name: "Luptune - Conditions générales de ventes",
+          content: "Paiements, droits, remboursements... Découvrez nos conditions générales de ventes"
+        }
+      ]
+    }
   },
 
   components: {

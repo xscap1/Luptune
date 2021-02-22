@@ -26,13 +26,15 @@
 
         </div>
 
-        <div class="xl:w-2/6 px-2 text-justify border-b-8 border-l-8 border-yellow-600 p-8 inline-block">
-          <br>
-          <p class="mb-6"> Personnalisez le site idéal pour votre établissement grâce à une étroite coopération entre vous et nous!
+        <div class="xl:w-2/6 px-2 text-justify pr-6">
+          <p class="mb-4"> Personnalisez le site idéal pour votre établissement grâce à une étroite coopération entre vous et nous!
              Des croquis à la conception, nous vous accompagnerons pour faire en sorte que vous et vos clients ayez la meilleure expérience possible.</p>
 
-          <p class="mb-6">Un contenu sur mesure pour les restaurateurs, c'est ce que nous voulons! Publiez votre menu pour en faire profiter les plus gourmands.
+<h3 class="text-xl mb-3 font-semibold font-semibold text-yellow-500">On vous accompagne:</h3>
+          <p class="mb-4">Un contenu sur mesure pour les restaurateurs, c'est ce que nous voulons! Publiez votre menu pour en faire profiter les plus gourmands.
           </p>
+
+          <h3 class="text-xl mb-3 font-semibold font-semibold text-yellow-500">Informez-les:</h3>
           <p>
             Présentez également
             toute votre équipe et nouez ainsi des liens avec vos clients. Faites y figurer vos horaires d'ouverture et toutes autres informations au sujet de votre
