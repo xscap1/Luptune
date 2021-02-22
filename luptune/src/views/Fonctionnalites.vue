@@ -27,11 +27,11 @@
         </div>
 
         <div class="xl:w-2/6 px-2 text-justify pr-6">
-          <p class="mb-4"> Personnalisez le site idéal pour votre établissement grâce à une étroite coopération entre vous et nous!
+          <p class="mb-4"> Créons ensemble, main dans la main, le site internet de votre restaurant !
              Des croquis à la conception, nous vous accompagnerons pour faire en sorte que vous et vos clients ayez la meilleure expérience possible.</p>
 
 <h3 class="text-xl mb-3 font-semibold font-semibold text-yellow-500">On vous accompagne:</h3>
-          <p class="mb-4">Un contenu sur mesure pour les restaurateurs, c'est ce que nous voulons! Publiez votre menu pour en faire profiter les plus gourmands.
+          <p class="mb-4">Un contenu sur mesure pour les restaurateurs, c'est ce que nous voulons! Présentez votre restaurant et publiez votre menu pour en faire profiter les plus gourmands.
           </p>
 
           <h3 class="text-xl mb-3 font-semibold font-semibold text-yellow-500">Informez-les:</h3>
