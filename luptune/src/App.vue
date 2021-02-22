@@ -37,7 +37,7 @@
                 </button>
 
 
-                  <div class="ml-5 bg-white rounded-xl border border-gray-300"
+                  <div class="ml-5"
                   style="
                     position : relative;
                     z-index: 101;
@@ -164,7 +164,7 @@
                 </button>
 
 
-                  <div class="ml-5 bg-white rounded-xl border border-gray-300"
+                  <div class="ml-5"
                   style="
                     position : relative;
                     z-index: 101;
@@ -262,17 +262,29 @@
     <router-view />
 
     <!-- footer -->
-    <section class="bg-marine-dark">
-
-
+    <section class="bg-marine-dark hidden md:hidden lg:block">
       <footer class="container border-t px-4 mx-auto flex flex-wrap items-center justify-between p-4 text-sm ">
         <div class="w-full lg:w-auto lg:mr-6 mb-4 lg:mb-0 text-center text-white">© 2021 Luptune</div>
-        <div class="flex flex-col lg:flex-row items-center w-full lg:w-auto">
-          <div class="mx-auto lg:mx-0 lg:ml-auto">
+        <div class="flex flex-col lg:flex-row w-full lg:w-auto">
+          <div class="mx-auto lg:mx-0 lg:ml-auto text-center">
             <router-link to="/mentions-legales" class="inline-block mt-0 ml-8 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">Mentions légales </router-link>
             <router-link to="/politique-de-confidentialite" class="inline-block mt-0 ml-8 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">Politique de confidentialité </router-link>
             <router-link to="/conditions-generales-de-ventes" class="inline-block mt-0 ml-8 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">CGV</router-link>
           </div>
+        </div>
+      </footer>
+    </section>
+
+    <section class="bg-marine-dark block lg:hidden">
+      <footer class="container border-t px-4 mx-auto flex flex-wrap items-center justify-center p-4 text-sm ">
+
+        <div class="flex justify-center">
+          <ul class="text-white text-center">
+            <li class="inline-block mt-0 ml-8 text-gray-300 px-3 py-2 rounded-md text-sm font-semibold text-beige">© 2021 Luptune</li>
+            <li><router-link to="/mentions-legales" class="inline-block mt-0 ml-8 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">Mentions légales </router-link></li>
+            <li><router-link to="/politique-de-confidentialite" class="inline-block mt-0 ml-8 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">Politique de confidentialité </router-link></li>
+            <li><router-link to="/conditions-generales-de-ventes" class="inline-block mt-0 ml-8 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">CGV</router-link></li>
+          </ul>
         </div>
       </footer>
     </section>
