@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90380f24-a61c-491e-b71a-3466444ffc28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/views/Mentions.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Mentions.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/29fd2b6da079abd8ced396a1c091eb08.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/29fd2b6da079abd8ced396a1c091eb08.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/79feb21cb066020962b47b42246122a5.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/79feb21cb066020962b47b42246122a5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/966295b83c20607fd8fad6663da0de10.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/966295b83c20607fd8fad6663da0de10.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/be84557293a2e70a88f0ef3ea4e3acb1.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/be84557293a2e70a88f0ef3ea4e3acb1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/02ef889ac49c7cb65ed31a8a92939f10.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/02ef889ac49c7cb65ed31a8a92939f10.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2c60a727f3401e62d5f67717cfbaab4b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2c60a727f3401e62d5f67717cfbaab4b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/44fc756348cbd0643af796561b6be047.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/44fc756348cbd0643af796561b6be047.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/46a8ce789a6e536ccf0ffa9edc137ebf.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/46a8ce789a6e536ccf0ffa9edc137ebf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/48f0a5e191d012935027f52a8e408460.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/48f0a5e191d012935027f52a8e408460.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5012561a21e7db43d747b3c8f9c32cc2.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5012561a21e7db43d747b3c8f9c32cc2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/55284a3207bd8fa2ba1276143a2ea52d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/55284a3207bd8fa2ba1276143a2ea52d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6377315b9aece979080954e0b43b15b0.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6377315b9aece979080954e0b43b15b0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/892a179a03f2cfa3bcef306c47b3c4ce.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/892a179a03f2cfa3bcef306c47b3c4ce.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/8c5749fa6463020a174fd2e6ed07c9d3.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/8c5749fa6463020a174fd2e6ed07c9d3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/91be4a9cbbf5ddd750c19db18b94dc47.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/91be4a9cbbf5ddd750c19db18b94dc47.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9decb9fc3b945d45153e53ffe4e57b13.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9decb9fc3b945d45153e53ffe4e57b13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b4b774da25bb0715e577c5067358eaf8.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b4b774da25bb0715e577c5067358eaf8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d7c04c57239ebd31d55c5ea887a075cc.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d7c04c57239ebd31d55c5ea887a075cc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f044452d237a8ded9372c0607946f1f9.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f044452d237a8ded9372c0607946f1f9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/fd333b48e53c2a1e0db2b0b9795edf6e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/fd333b48e53c2a1e0db2b0b9795edf6e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Fonctionnalites.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Fonctionnalites.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,23 +51,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="js" value="1" />
-          <entry key="vue" value="3" />
+          <entry key="vue" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JavaScript" value="1" />
-          <entry key="Vue.js" value="3" />
+          <entry key="Vue.js" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="vue" value="1181" />
+          <entry key="vue" value="1247" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Vue.js" value="1181" />
+          <entry key="Vue.js" value="1247" />
         </counts>
       </usages-collector>
     </session>
@@ -68,11 +89,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/Mentions.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="371">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/views/Fonctionnalites.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="738" column="38" lean-forward="true" selection-start-line="738" selection-start-column="38" selection-end-line="738" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -84,6 +114,7 @@
       <find>text-beige bg-marine-dark border rounded-full border-marine-dark hover:bg-beige hover:text-black hover:shadow-md px-3 py-2 md:py-4 rounded-md text-sm font-medium</find>
       <find>bg-gray-700</find>
       <find>gray</find>
+      <find>Bonjour</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -95,6 +126,7 @@
         <option value="$PROJECT_DIR$/src/components/Contact.vue" />
         <option value="$PROJECT_DIR$/src/App.vue" />
         <option value="$PROJECT_DIR$/src/views/Mentions.vue" />
+        <option value="$PROJECT_DIR$/src/views/Fonctionnalites.vue" />
       </list>
     </option>
   </component>
@@ -114,7 +146,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1004" />
@@ -194,15 +226,15 @@
       <updated>1613237559516</updated>
       <workItem from="1613237562139" duration="1918000" />
       <workItem from="1613815720839" duration="1748000" />
-      <workItem from="1613902580357" duration="3313000" />
+      <workItem from="1613902580357" duration="4470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6979000" />
+    <option name="totallyTimeSpent" value="8136000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1004" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1004" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23216188" />
@@ -266,8 +298,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/Mentions.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="371">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Fonctionnalites.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="738" column="38" lean-forward="true" selection-start-line="738" selection-start-column="38" selection-end-line="738" selection-end-column="38" />
         </state>
       </provider>
     </entry>

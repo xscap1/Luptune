@@ -699,6 +699,7 @@
                     <label for="firstname" class="block text-xs font-semibold text-gray-600 uppercase">Nom</label>
                     <input id="firstname" type="text" name="firstname"  autocomplete="family-name" class="block w-full p-3 mt-2 text-gray-700 bg-gray-200 appearance-none focus:outline-none focus:bg-gray-300 focus:shadow-inner" required />
                   </span>
+                    <div class="w-5 lg:w-10"></div>
                   <span class="w-1/2">
                     <label for="lastname" class="block text-xs font-semibold text-gray-600 uppercase">Prénom</label>
                   <input id="lastname" type="text" name="lastname"  autocomplete="given-name" class="block w-full p-3 mt-2 text-gray-700 bg-gray-200 appearance-none focus:outline-none focus:bg-gray-300 focus:shadow-inner" required />
@@ -706,18 +707,19 @@
                 </div>
                 <div class="flex justify-between gap-3 mt-6">
                   <span class="w-1/2">
-                    <label for="firstname" class="block text-xs font-semibold text-gray-600 uppercase">E-mail</label>
+                    <label for="email" class="block text-xs font-semibold text-gray-600 uppercase">E-mail</label>
                     <input id="email" type="email" name="email" autocomplete="email" class="block w-full p-3 mt-2 text-gray-700 bg-gray-200 appearance-none focus:outline-none focus:bg-gray-300 focus:shadow-inner" required />
                   </span>
+                    <div class="w-5 lg:w-10"></div>
                   <span class="w-1/2">
-                    <label for="lastname" class="block text-xs font-semibold text-gray-600 uppercase">Téléphone</label>
+                    <label for="tel" class="block text-xs font-semibold text-gray-600 uppercase">Téléphone</label>
                   <input id="tel" type="text" name="lastname"  autocomplete="tel" class="block w-full p-3 mt-2 text-gray-700 bg-gray-200 appearance-none focus:outline-none focus:bg-gray-300 focus:shadow-inner" required />
                   </span>
                 </div>
 
                 <div class="flex justify-between gap-3 mt-6">
                   <span class="w-1/2">
-                    <label for="firstname" class="block text-xs font-semibold text-gray-600 uppercase">Nombre de personnes</label>
+                    <label for="subject" class="block text-xs font-semibold text-gray-600 uppercase">Nombre de personnes</label>
                     <select required name="subject" class="mt-2 block w-full py-3 px-4 leading-tight text-gray-700 bg-gray-50 focus:bg-white border border-gray-200 focus:border-gray-500 rounded focus:outline-none">
                       <option value="1">1</option>
                       <option selected value="2">2</option>
@@ -733,9 +735,9 @@
                       <option value="plus">Plus</option>
                     </select>
                   </span>
-
+                    <div class="w-5 lg:w-10"></div>
                   <span class="w-1/2">
-                    <label for="firstname" class="block text-xs font-semibold text-gray-600 uppercase"> Date </label>
+                    <label for="date" class="block text-xs font-semibold text-gray-600 uppercase"> Date </label>
                     <input type="date" id="start" name="trip-start"
                      :value="getLocaleDateString()"
                      min="2021-01-01" max="2022-01-01" class="block w-full p-3 mt-2 text-gray-700 bg-gray-200 appearance-none focus:outline-none focus:bg-gray-300 focus:shadow-inner">
