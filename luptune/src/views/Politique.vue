@@ -98,8 +98,8 @@ export default {
       title: "Luptune - Politique de confidentialité",
       meta: [
         {
-          name: "Politique de confidentialité",
-          content: "Conditions d'utilisation, propriété intellectuelle et responsabilité."
+          name: "description",
+          content: "Conditions d'utilisation, propriété intellectuelle et responsabilités."
         }
       ]
     }

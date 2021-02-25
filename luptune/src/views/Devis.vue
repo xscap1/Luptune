@@ -86,7 +86,7 @@
               </label>
               <br/>
               <br/>
-            
+
                 <p class="text-gray-400 text-justify">L'option moderne va comprendre un site beaucoup plus dynamique avec par exemple des animations de défilement ainsi qu'un
                   design moderne et épuré, l'option Classique va quant à
                 elle comprendre un site plus statique et au design plus simple</p>
@@ -272,11 +272,11 @@ export default {
 
   metaInfo() {
     return {
-      title: "Luptune - Estimer votre devis",
+      title: "Luptune - Estimez votre devis",
       meta: [
         {
-          name: "Luptune - Estimation de votre devis",
-          content: "Estimez le devis du prochain site internet de votre restaurant."
+          name: "description",
+          content: "Estimez le devis du prochain site internet de votre restaurant créé spécialement par nous et pour vous."
         }
       ]
     }

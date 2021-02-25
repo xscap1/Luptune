@@ -103,7 +103,7 @@ export default {
       title: "Luptune - Conditions générales de ventes",
       meta: [
         {
-          name: "Luptune - Conditions générales de ventes",
+          name: "description",
           content: "Paiements, droits, remboursements... Découvrez nos conditions générales de ventes"
         }
       ]

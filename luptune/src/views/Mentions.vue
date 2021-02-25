@@ -70,7 +70,7 @@ export default {
       title: "Luptune - Mentions légales",
       meta: [
         {
-          name: "Luptune - Mentions légales",
+          name: "description",
           content: "Informatique et libertés, Copyright, accès au site..."
         }
       ]

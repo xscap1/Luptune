@@ -520,10 +520,10 @@ export default {
   mode: 'production',
   metaInfo() {
     return {
-      title: "Luptune",
+      title: "Luptune - Développement de sites internet pour restaurateurs",
       meta: [
         {
-          name: "Luptune - Développement de sites internet",
+          name: "description",
           content: "Créons votre site web, boostez vos ventes grâce aux commandes en ligne et click & collect, gérez vos clients, réservations et plus encore."
         }
       ]

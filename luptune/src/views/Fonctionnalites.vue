@@ -1119,10 +1119,10 @@ export default {
 
   metaInfo() {
     return {
-      title: "Luptune - Fonctionnalités",
+      title: "Luptune - Découvrez nos fonctionnalités",
       meta: [
         {
-          name: "Luptune - Découvrez nos fonctionnalités",
+          name: "description",
           content: "Commandes en ligne et click & collect, gestion des clients et réservations. Découvrez le large choix qui s'offre à vous."
         }
       ]
