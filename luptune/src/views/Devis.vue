@@ -1,4 +1,4 @@
-<template>
+<template xmlns:x-on="http://www.w3.org/1999/xhtml">
   <div class="Devis bg-marine-dark"  style="
     overflow-x: hidden;
     width: 100%;
@@ -87,9 +87,8 @@
               <br/>
               <br/>
 
-                <p class="text-gray-400 text-justify">L'option moderne va comprendre un site beaucoup plus dynamique avec par exemple des animations de défilement ainsi qu'un
-                  design moderne et épuré, l'option Classique va quant à
-                elle comprendre un site plus statique et au design plus simple</p>
+                <p class="text-gray-400 text-justify">
+                L'option moderne comprend un site dynamique et animé, au design épuré. Tandis que l'option classique est un site statique, au design plus simple. </p>
             </div>
 
           </div>
@@ -207,6 +206,27 @@
                         </a>
                       </li>
 
+                      <li>
+                        <a class="block hover:bg-gray-200">
+                          <div class="px-4 py-4 sm:px-6">
+                            <div class="flex items-center justify-between">
+                              <p class="text-sm font-thin text-gray-700 truncate">
+                                Maintenance
+                              </p>
+
+                              <span  class="underline pr-2 ml-2 flex-shrink-0 flex inline-flex text-xs leading-5 font-semibold text-green-600">
+                                Gratuite sous conditions
+                              </span>
+
+
+                            </div>
+
+                          </div>
+                        </a>
+                      </li>
+
+
+
                       <li v-for="item in cb_devis" :key="item">
                         <a class="block hover:bg-gray-200">
                           <div class="px-4 py-4 sm:px-6">
@@ -241,6 +261,7 @@
                       </li>
                     </ul>
                   </div>
+                  <p class="text-gray-400 mt-2 text-sm">Maintenance offerte pour toutes pannes. Tous changements esthétiques sera facturés.</p>
         </div>
 
       </section>
@@ -255,6 +276,7 @@
     <!-- contact -->
 
 
+
     <div class="bg-marine-dark h-1">
 
     </div>
@@ -262,6 +284,7 @@
 
   </div>
 </template>
+
 
 
 <script>

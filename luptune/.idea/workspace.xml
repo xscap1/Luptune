@@ -3,12 +3,40 @@
   <component name="ChangeListManager">
     <list default="true" id="90380f24-a61c-491e-b71a-3466444ffc28" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/29fd2b6da079abd8ced396a1c091eb08.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/29fd2b6da079abd8ced396a1c091eb08.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/75db25b7abc700178d3f8ce688dc98b0.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/75db25b7abc700178d3f8ce688dc98b0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/79feb21cb066020962b47b42246122a5.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/79feb21cb066020962b47b42246122a5.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/966295b83c20607fd8fad6663da0de10.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/966295b83c20607fd8fad6663da0de10.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/be84557293a2e70a88f0ef3ea4e3acb1.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/be84557293a2e70a88f0ef3ea4e3acb1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d59c94f719c6c727eab222ce4d7b50ea.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d59c94f719c6c727eab222ce4d7b50ea.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/02ef889ac49c7cb65ed31a8a92939f10.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/02ef889ac49c7cb65ed31a8a92939f10.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/160c4b38cdb95e96dd31ca37451e4a3a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/160c4b38cdb95e96dd31ca37451e4a3a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2c60a727f3401e62d5f67717cfbaab4b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/2c60a727f3401e62d5f67717cfbaab4b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/354169d68b78422b80e1baa5af1ba86a.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/354169d68b78422b80e1baa5af1ba86a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/39c3cd2527f212036a5d412f5766ad22.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/39c3cd2527f212036a5d412f5766ad22.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/44fc756348cbd0643af796561b6be047.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/44fc756348cbd0643af796561b6be047.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/46a8ce789a6e536ccf0ffa9edc137ebf.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/46a8ce789a6e536ccf0ffa9edc137ebf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/48f0a5e191d012935027f52a8e408460.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/48f0a5e191d012935027f52a8e408460.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5012561a21e7db43d747b3c8f9c32cc2.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/5012561a21e7db43d747b3c8f9c32cc2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/55284a3207bd8fa2ba1276143a2ea52d.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/55284a3207bd8fa2ba1276143a2ea52d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6377315b9aece979080954e0b43b15b0.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/6377315b9aece979080954e0b43b15b0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/86858357dd0bc055a9cc3eb3dff1bccb.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/86858357dd0bc055a9cc3eb3dff1bccb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/892a179a03f2cfa3bcef306c47b3c4ce.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/892a179a03f2cfa3bcef306c47b3c4ce.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/8c5749fa6463020a174fd2e6ed07c9d3.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/8c5749fa6463020a174fd2e6ed07c9d3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/91be4a9cbbf5ddd750c19db18b94dc47.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/91be4a9cbbf5ddd750c19db18b94dc47.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9decb9fc3b945d45153e53ffe4e57b13.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/9decb9fc3b945d45153e53ffe4e57b13.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b4b774da25bb0715e577c5067358eaf8.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b4b774da25bb0715e577c5067358eaf8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b56222530d30a19cd297ee74e52f789b.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/b56222530d30a19cd297ee74e52f789b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d0f471dde4b69a65ffaed5f2fe4434bf.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d0f471dde4b69a65ffaed5f2fe4434bf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d52723f246d5bd057cc8dd71d2e05e11.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d52723f246d5bd057cc8dd71d2e05e11.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d7c04c57239ebd31d55c5ea887a075cc.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d7c04c57239ebd31d55c5ea887a075cc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d897406d8a69d315701cd851ec6fbbfa.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/d897406d8a69d315701cd851ec6fbbfa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e483680c3a34842595daf1e058a84928.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/e483680c3a34842595daf1e058a84928.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f044452d237a8ded9372c0607946f1f9.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/f044452d237a8ded9372c0607946f1f9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Fonctionnalites.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Fonctionnalites.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/vue-loader/fd333b48e53c2a1e0db2b0b9795edf6e.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/vue-loader/fd333b48e53c2a1e0db2b0b9795edf6e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Devis.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Devis.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Mentions.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Mentions.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +49,12 @@
     <session id="1524953971">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -36,23 +65,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="js" value="1" />
-          <entry key="vue" value="4" />
+          <entry key="vue" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JavaScript" value="1" />
-          <entry key="Vue.js" value="4" />
+          <entry key="Vue.js" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="vue" value="1412" />
+          <entry key="vue" value="2386" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Vue.js" value="1412" />
+          <entry key="Vue.js" value="2386" />
         </counts>
       </usages-collector>
     </session>
@@ -74,20 +103,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/views/Mentions.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="332">
+              <caret line="32" column="175" selection-start-line="32" selection-start-column="175" selection-end-line="32" selection-end-column="175" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/Fonctionnalites.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="33" column="130" selection-start-line="33" selection-start-column="130" selection-end-line="33" selection-end-column="130" />
+            <state relative-caret-position="526">
+              <caret line="57" column="95" selection-start-line="56" selection-start-column="39" selection-end-line="57" selection-end-column="95" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/Devis.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="89" column="54" selection-start-line="89" selection-start-column="54" selection-end-line="89" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Contact.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="878">
+              <caret line="97" column="10" lean-forward="true" selection-start-line="97" selection-start-column="10" selection-end-line="97" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -100,6 +147,9 @@
       <find>bg-gray-700</find>
       <find>gray</find>
       <find>Bonjour</find>
+      <find>sous</find>
+      <find>L'option</find>
+      <find>Residence</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -108,10 +158,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/Contact.vue" />
         <option value="$PROJECT_DIR$/src/App.vue" />
-        <option value="$PROJECT_DIR$/src/views/Mentions.vue" />
         <option value="$PROJECT_DIR$/src/views/Fonctionnalites.vue" />
+        <option value="$PROJECT_DIR$/src/views/Devis.vue" />
+        <option value="$PROJECT_DIR$/src/components/Contact.vue" />
+        <option value="$PROJECT_DIR$/src/views/Mentions.vue" />
       </list>
     </option>
   </component>
@@ -131,10 +182,10 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1004" />
+    <option name="width" value="1440" />
+    <option name="height" value="824" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -212,18 +263,19 @@
       <workItem from="1613237562139" duration="1918000" />
       <workItem from="1613815720839" duration="1748000" />
       <workItem from="1613902580357" duration="5468000" />
-      <workItem from="1614016484284" duration="291000" />
+      <workItem from="1614016484284" duration="524000" />
+      <workItem from="1615040209787" duration="1988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9425000" />
+    <option name="totallyTimeSpent" value="11646000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1004" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="824" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2342918" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2160229" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -262,13 +314,6 @@
     <entry file="file://$PROJECT_DIR$/src/views/CGV.vue">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Contact.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="123" column="16" selection-start-line="123" selection-start-column="16" selection-end-line="123" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3420">
@@ -282,17 +327,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Mentions.vue">
+    <entry file="file://$PROJECT_DIR$/src/views/Fonctionnalites.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="526">
+          <caret line="57" column="95" selection-start-line="56" selection-start-column="39" selection-end-line="57" selection-end-column="95" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/Fonctionnalites.vue">
+    <entry file="file://$PROJECT_DIR$/src/views/Devis.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="33" column="130" selection-start-line="33" selection-start-column="130" selection-end-line="33" selection-end-column="130" />
+        <state relative-caret-position="280">
+          <caret line="89" column="54" selection-start-line="89" selection-start-column="54" selection-end-line="89" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Contact.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="878">
+          <caret line="97" column="10" lean-forward="true" selection-start-line="97" selection-start-column="10" selection-end-line="97" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Mentions.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="32" column="175" selection-start-line="32" selection-start-column="175" selection-end-line="32" selection-end-column="175" />
         </state>
       </provider>
     </entry>

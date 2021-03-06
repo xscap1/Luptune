@@ -106,9 +106,10 @@
           </div>
           <div class="w-1/2 px-2">
             <select id="inselect" required name="subject" class="appearance-none block w-full py-3 px-4 leading-tight text-gray-700 bg-gray-50 focus:bg-white border border-gray-200 focus:border-gray-500 rounded focus:outline-none">
-              <option disabled selected value="Choix">-- Choisissez une option --</option>
+              <option disabled selected value="Choix">-- Choisissez un sujet --</option>
+              <option value="Prise contact" >Prise de contact</option>
               <option value="Question générale" >Question générale</option>
-              <option value="Question fonctionnalités" >Question fonctionnalités</option>
+              <option value="Question fonctionnalités" >Question sur les fonctionnalités</option>
               <option value="Devis">Estimation du devis</option>
               <option value ="Autre" >Autre</option>
             </select>

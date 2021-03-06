@@ -14,10 +14,13 @@
         <p class="mb-4">Dont les adresses e-mails personnelles sont : <span class="font-semibold">poujoltheo@gmail.com</span> et <span class="font-semibold">axelribes4@gmail.com</span> </p>
         <p class="mb-4">Dont les numéros téléphoniques personnels sont M. POUJOL: <span class="font-semibold">+33 6 58 92 44 05</span> et M. RIBES: <span class="font-semibold">+33 6 43 40 17 58</span></p>
         <p class="mb-2">Domiciliés aux adresses suivantes:</p>
-        <p class="mb-2"> Mr POUJOL: 4 Avenue Jean Bart Residence Jean Bart 13620 Carry-le-Rouet</p>
+        <p class="mb-2"> Mr POUJOL: 4 Avenue Jean Bart Résidence Jean Bart 13620 Carry-le-Rouet</p>
         <p class="mb-4">Mr. RIBES: 77 allée du chateau 83136 Forcalqueiret</p>
         <p class="font-semibold">Activité : </p>
+        <p>Luptune, entreprise individuelle</p>
         <p>N° RCS : 893 995 704 00010</p>
+        <p class="mb-2"> 4 Avenue Jean Bart Résidence Jean Bart 13620 Carry-le-Rouet</p>
+
 
         <p class="font-semibold mt-4">Hébergement : </p>
         <p class="">Le site est hébergé par la société OVH Hosting</p>
@@ -27,7 +30,7 @@
 
         <h2 class="text-2xl mb-4 font-semibold font-semibold">Informatique et libertés</h2>
 
-        <p class="mb-4">Aucune information personnelle n'est collectée à votre insu. Les informations que vous nous communiquez lors d’une demande de devis, de renseignements ou d’inscription à la newsletter par courrier, par téléphone, par e-mail ou par formulaire sont uniquement destinées au traitement administratif et commercial de votre demande par Théo PUJOL et Axel RIBES.</p>
+        <p class="mb-4">Aucune information personnelle n'est collectée à votre insu. Les informations que vous nous communiquez lors d’une demande de devis, de renseignements par courrier, par téléphone, par e-mail ou par formulaire sont uniquement destinées au traitement administratif et commercial de votre demande par Théo POUJOL et Axel RIBES.</p>
         <p class="mb-4">Elles ne font l'objet d'aucune cession à des tiers. Théo POUJOL et Axel RIBES  traitent les informations qui vous concernent avec la plus grande confidentialité.</p>
         <p class="mb-4">Conformément à la loi « Informatique et Libertés » n°78-17 du 6 janvier 1978, vous disposez d'un droit d'accès, de rectification et d'opposition aux données personnelles vous concernant. Pour l'exercer, il suffit de nous en faire la demande par écrit aux coordonnées suivantes : luptunecontact@gmail.com.</p>
 
