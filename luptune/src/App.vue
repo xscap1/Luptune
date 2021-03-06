@@ -261,11 +261,22 @@
     </div>
     <router-view />
 
+
     <!-- footer -->
     <section class="bg-marine-dark hidden md:hidden lg:block">
-      <footer class="container border-t px-4 mx-auto flex flex-wrap items-center justify-between p-4 text-sm ">
-        <div class="w-full lg:w-auto lg:mr-6 mb-4 lg:mb-0 text-center text-white">© 2021 Luptune</div>
-        <div class="flex flex-col lg:flex-row w-full lg:w-auto">
+
+      <footer class="container border-t px-4 mx-auto p-4 text-sm ">
+
+        <div class="flex flex-wrap items-center justify-between flex-col lg:flex-row w-full lg:w-auto">
+
+        </div>
+
+        <div class="flex flex-wrap items-center justify-between flex-col lg:flex-row w-full lg:w-auto">
+
+          <p class="text-white">© 2021 Luptune</p>
+            <a class="ml-2"><img class="w-5" src="./assets/fb.png"/></a>
+            <a class="ml-2"><img class="w-5" src="./assets/ig.svg"/></a>
+
           <div class="mx-auto lg:mx-0 lg:ml-auto text-center">
             <router-link to="/mentions-legales" class="inline-block mt-0 ml-8 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">Mentions légales </router-link>
             <router-link to="/politique-de-confidentialite" class="inline-block mt-0 ml-8 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">Politique de confidentialité </router-link>
