@@ -274,8 +274,8 @@
         <div class="flex flex-wrap items-center justify-between flex-col lg:flex-row w-full lg:w-auto">
 
           <p class="text-white">© 2021 Luptune</p>
-            <a class="ml-2"><img class="w-5" src="./assets/fb.png"/></a>
-            <a class="ml-2"><img class="w-5" src="./assets/ig.svg"/></a>
+            <a href="https://www.facebook.com/luptune"  target="_blank" class="ml-2"><img class="w-5" src="./assets/fb.png"/></a>
+            <a href="https://www.instagram.com/luptunedev" target="_blank" class="ml-2"><img class="w-5" src="./assets/ig.svg"/></a>
 
           <div class="mx-auto lg:mx-0 lg:ml-auto text-center">
             <router-link to="/mentions-legales" class="inline-block mt-0 ml-8 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">Mentions légales </router-link>
@@ -291,10 +291,16 @@
 
         <div class="flex justify-center">
           <ul class="text-white text-center">
-            <li class="inline-block mt-0 ml-8 text-gray-300 px-3 py-2 rounded-md text-sm font-semibold text-beige">© 2021 Luptune</li>
-            <li><router-link to="/mentions-legales" class="inline-block mt-0 ml-8 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">Mentions légales </router-link></li>
-            <li><router-link to="/politique-de-confidentialite" class="inline-block mt-0 ml-8 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">Politique de confidentialité </router-link></li>
-            <li><router-link to="/conditions-generales-de-ventes" class="inline-block mt-0 ml-8 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">CGV</router-link></li>
+            <li class="inline-block mt-0 text-gray-300 px-3 py-2 rounded-md text-sm font-semibold text-beige">© 2021 Luptune</li>
+            <li class="inline-block mt-0 px-1 py-2">
+              <div class="flex flex-wrap">
+                <a href="https://www.facebook.com/luptune"  target="_blank" class=""><img class="w-5" src="./assets/fb.png"/></a>
+                <a href="https://www.instagram.com/luptunedev" target="_blank" class="ml-5"><img class="w-5" src="./assets/ig.svg"/></a>
+              </div>
+            </li>
+            <li><router-link to="/mentions-legales" class="inline-block mt-0 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">Mentions légales </router-link></li>
+            <li><router-link to="/politique-de-confidentialite" class="inline-block mt-0 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">Politique de confidentialité </router-link></li>
+            <li><router-link to="/conditions-generales-de-ventes" class="inline-block mt-0 text-gray-300 hover:bg-gray-700 hover:text-beige px-3 py-2 rounded-md text-sm font-medium">CGV</router-link></li>
           </ul>
         </div>
       </footer>
